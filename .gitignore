@@ -1,0 +1,17 @@
+# Ignore secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor junk
+.DS_Store
+*.log
+
+# Data (intermediate or output)
+data/*.json
+data/*.csv
+
+# Jupyter artifacts
+.ipynb_checkpoints/
