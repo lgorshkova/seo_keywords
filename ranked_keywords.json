@@ -1,0 +1,10669 @@
+[
+  {
+    "keyword": "strumpfhose",
+    "score": 11.6462,
+    "appearances": 16,
+    "semantic_score": 6.077,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "optik",
+    "score": 9.5856,
+    "appearances": 9,
+    "semantic_score": 6.1114,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose",
+    "score": 9.203,
+    "appearances": 9,
+    "semantic_score": 7.8496,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "blickdichte",
+    "score": 8.7135,
+    "appearances": 4,
+    "semantic_score": 7.8997,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "beine",
+    "score": 8.4125,
+    "appearances": 9,
+    "semantic_score": 7.3594,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen",
+    "score": 8.2867,
+    "appearances": 19,
+    "semantic_score": 5.8853,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "komfortbund",
+    "score": 8.2621,
+    "appearances": 9,
+    "semantic_score": 7.429,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "nur",
+    "score": 8.2079,
+    "appearances": 9,
+    "semantic_score": 3.8683,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "sie",
+    "score": 8.1794,
+    "appearances": 10,
+    "semantic_score": 4.8787,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "attraktiven dreierpack",
+    "score": 8.1239,
+    "appearances": 3,
+    "semantic_score": 10.5842,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "druckfreier komfortbund feinstrumpfhose",
+    "score": 7.9589,
+    "appearances": 4,
+    "semantic_score": 10.8646,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "laufmaschen",
+    "score": 7.6072,
+    "appearances": 2,
+    "semantic_score": 7.6141,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "strumpfhosen",
+    "score": 7.6061,
+    "appearances": 5,
+    "semantic_score": 6.1077,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "transparent",
+    "score": 7.5538,
+    "appearances": 8,
+    "semantic_score": 6.4673,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "semi blickdichte",
+    "score": 7.5373,
+    "appearances": 0,
+    "semantic_score": 8.8821,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "semi blickdichte fein",
+    "score": 7.4675,
+    "appearances": 0,
+    "semantic_score": 9.7679,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fein strumpfhose",
+    "score": 7.3993,
+    "appearances": 0,
+    "semantic_score": 7.051,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "blickdichte fein strumpfhose",
+    "score": 7.3304,
+    "appearances": 0,
+    "semantic_score": 9.5394,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "stützwirkung semi blickdichte",
+    "score": 7.313,
+    "appearances": 0,
+    "semantic_score": 9.5105,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "tights",
+    "score": 7.303,
+    "appearances": 2,
+    "semantic_score": 7.569,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "komfortbund feinstrumpfhose",
+    "score": 7.2758,
+    "appearances": 4,
+    "semantic_score": 9.7262,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "komfortbund feine naht",
+    "score": 7.2626,
+    "appearances": 2,
+    "semantic_score": 10.3815,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fußspitze feines weiches",
+    "score": 7.2378,
+    "appearances": 1,
+    "semantic_score": 11.2699,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "modische bekleidung hochwertigen",
+    "score": 7.196,
+    "appearances": 0,
+    "semantic_score": 10.5987,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "moderner bekleidungsaccessoires",
+    "score": 7.1904,
+    "appearances": 3,
+    "semantic_score": 10.0635,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fein strumpfhose seidig",
+    "score": 7.1836,
+    "appearances": 0,
+    "semantic_score": 7.755,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "herstellung moderner bekleidungsaccessoires",
+    "score": 7.1383,
+    "appearances": 3,
+    "semantic_score": 9.9767,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fußspitze feine naht",
+    "score": 7.0911,
+    "appearances": 0,
+    "semantic_score": 10.9838,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen blickdichte wärmende",
+    "score": 7.0861,
+    "appearances": 0,
+    "semantic_score": 8.7873,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "entlastet beine komfortbund",
+    "score": 7.0572,
+    "appearances": 0,
+    "semantic_score": 9.8556,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "bekleidungsaccessoires",
+    "score": 7.0345,
+    "appearances": 3,
+    "semantic_score": 9.8037,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen elegante transparent",
+    "score": 7.0313,
+    "appearances": 0,
+    "semantic_score": 9.996,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "falke",
+    "score": 6.9921,
+    "appearances": 4,
+    "semantic_score": 5.1581,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen blickdichte",
+    "score": 6.9877,
+    "appearances": 0,
+    "semantic_score": 8.6233,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ideal offenen schuhen",
+    "score": 6.9665,
+    "appearances": 0,
+    "semantic_score": 9.888,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feiner naht fußspitze",
+    "score": 6.9376,
+    "appearances": 0,
+    "semantic_score": 10.7695,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fußspitze feiner naht",
+    "score": 6.9359,
+    "appearances": 0,
+    "semantic_score": 10.7663,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feines weiches",
+    "score": 6.9283,
+    "appearances": 4,
+    "semantic_score": 9.147,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "transparente",
+    "score": 6.9103,
+    "appearances": 7,
+    "semantic_score": 6.4042,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "everswe pairs 20d",
+    "score": 6.9097,
+    "appearances": 0,
+    "semantic_score": 7.1222,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dank zwickel bequemem",
+    "score": 6.8995,
+    "appearances": 0,
+    "semantic_score": 10.2312,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "glänzende optik komfortbund",
+    "score": 6.8935,
+    "appearances": 3,
+    "semantic_score": 8.9288,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "moderner bekleidungsaccessoires lebensstil",
+    "score": 6.885,
+    "appearances": 0,
+    "semantic_score": 9.5544,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "reißfest druckfreier komfortbund",
+    "score": 6.8845,
+    "appearances": 4,
+    "semantic_score": 9.0739,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "zaubert attraktive beine",
+    "score": 6.8759,
+    "appearances": 2,
+    "semantic_score": 9.7369,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feines maschenbild weiche",
+    "score": 6.8704,
+    "appearances": 0,
+    "semantic_score": 10.5687,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose feines weiches",
+    "score": 6.8693,
+    "appearances": 1,
+    "semantic_score": 10.5668,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "toes",
+    "score": 6.844,
+    "appearances": 2,
+    "semantic_score": 6.769,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "bekleidungsaccessoires lebensstil",
+    "score": 6.8436,
+    "appearances": 0,
+    "semantic_score": 9.4854,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fußspitze",
+    "score": 6.8395,
+    "appearances": 4,
+    "semantic_score": 8.999,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "blickdichte fein",
+    "score": 6.8245,
+    "appearances": 2,
+    "semantic_score": 8.6962,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "schuhen tragen moderne",
+    "score": 6.7926,
+    "appearances": 0,
+    "semantic_score": 9.5981,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "naht feines weiches",
+    "score": 6.7479,
+    "appearances": 2,
+    "semantic_score": 9.8152,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "optik komfortbund",
+    "score": 6.7469,
+    "appearances": 3,
+    "semantic_score": 8.6844,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dezent glänzende fit",
+    "score": 6.7439,
+    "appearances": 1,
+    "semantic_score": 10.0997,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "reißfest",
+    "score": 6.7416,
+    "appearances": 6,
+    "semantic_score": 6.3472,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "attraktive beine",
+    "score": 6.7358,
+    "appearances": 2,
+    "semantic_score": 9.5034,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "taille",
+    "score": 6.6635,
+    "appearances": 3,
+    "semantic_score": 5.8178,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einschneiden taille attraktive",
+    "score": 6.6625,
+    "appearances": 0,
+    "semantic_score": 10.1368,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose leicht",
+    "score": 6.6486,
+    "appearances": 0,
+    "semantic_score": 9.5906,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "elegante transparent strumpfhose",
+    "score": 6.6165,
+    "appearances": 2,
+    "semantic_score": 9.3046,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "bekleidungsaccessoires lebensstil persönliche",
+    "score": 6.6158,
+    "appearances": 0,
+    "semantic_score": 9.1058,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "transparente feinstrumpfhose",
+    "score": 6.6145,
+    "appearances": 2,
+    "semantic_score": 9.5152,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen stützstrumpfhose",
+    "score": 6.6123,
+    "appearances": 1,
+    "semantic_score": 9.114,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "everswe pairs",
+    "score": 6.6078,
+    "appearances": 0,
+    "semantic_score": 6.619,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "hat",
+    "score": 6.5999,
+    "appearances": 7,
+    "semantic_score": 5.951,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "weiches material stück",
+    "score": 6.5753,
+    "appearances": 0,
+    "semantic_score": 9.0007,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dreierpack",
+    "score": 6.5657,
+    "appearances": 3,
+    "semantic_score": 7.9872,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "elegante",
+    "score": 6.56,
+    "appearances": 4,
+    "semantic_score": 8.0002,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "transparente fein strumpfhose",
+    "score": 6.5181,
+    "appearances": 0,
+    "semantic_score": 8.4617,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "offenen schuhen tragen",
+    "score": 6.4882,
+    "appearances": 2,
+    "semantic_score": 9.0907,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "material",
+    "score": 6.4712,
+    "appearances": 6,
+    "semantic_score": 6.1108,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "optik komfortbund feine",
+    "score": 6.4605,
+    "appearances": 2,
+    "semantic_score": 9.0446,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fußspitze feine",
+    "score": 6.46,
+    "appearances": 0,
+    "semantic_score": 9.932,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "offenen schuhen",
+    "score": 6.4536,
+    "appearances": 3,
+    "semantic_score": 8.5017,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feine naht unsichtbar",
+    "score": 6.4519,
+    "appearances": 2,
+    "semantic_score": 9.0303,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "glanz beine poliert",
+    "score": 6.4438,
+    "appearances": 0,
+    "semantic_score": 9.787,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose verstärkte fußspitze",
+    "score": 6.4379,
+    "appearances": 1,
+    "semantic_score": 9.8951,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "glänzend reißfest druckfreier",
+    "score": 6.4197,
+    "appearances": 1,
+    "semantic_score": 9.9061,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "maschenbild",
+    "score": 6.415,
+    "appearances": 3,
+    "semantic_score": 8.3775,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fußspitze feines",
+    "score": 6.3712,
+    "appearances": 1,
+    "semantic_score": 9.8255,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose feiner naht",
+    "score": 6.3637,
+    "appearances": 0,
+    "semantic_score": 9.813,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ebenmäßig schöne beine",
+    "score": 6.3617,
+    "appearances": 1,
+    "semantic_score": 9.7682,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dresmannst strumpfhosen damen",
+    "score": 6.3591,
+    "appearances": 0,
+    "semantic_score": 7.3625,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "strumpfhosen damen",
+    "score": 6.3588,
+    "appearances": 1,
+    "semantic_score": 6.6465,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "matte optik",
+    "score": 6.3477,
+    "appearances": 5,
+    "semantic_score": 6.25,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "strumpfhose seidig glänzende",
+    "score": 6.3456,
+    "appearances": 3,
+    "semantic_score": 8.0157,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose verstärkter fußspitze",
+    "score": 6.3398,
+    "appearances": 0,
+    "semantic_score": 9.7729,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fußspitze feiner",
+    "score": 6.336,
+    "appearances": 0,
+    "semantic_score": 9.7665,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen elegante",
+    "score": 6.3345,
+    "appearances": 0,
+    "semantic_score": 8.8347,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen paar reißfest",
+    "score": 6.3115,
+    "appearances": 0,
+    "semantic_score": 7.2833,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "hauttyp wie make",
+    "score": 6.3019,
+    "appearances": 0,
+    "semantic_score": 9.0307,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einen",
+    "score": 6.2884,
+    "appearances": 8,
+    "semantic_score": 4.9404,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "weiches",
+    "score": 6.2706,
+    "appearances": 5,
+    "semantic_score": 7.5902,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feines weiches material",
+    "score": 6.265,
+    "appearances": 3,
+    "semantic_score": 8.4837,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen semi blickdichte",
+    "score": 6.2624,
+    "appearances": 0,
+    "semantic_score": 9.2973,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "geeignet bequemes",
+    "score": 6.2475,
+    "appearances": 0,
+    "semantic_score": 9.5305,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ergeben feines maschenbild",
+    "score": 6.2471,
+    "appearances": 0,
+    "semantic_score": 9.5298,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "komfortable",
+    "score": 6.2354,
+    "appearances": 2,
+    "semantic_score": 8.3849,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "falke modische bekleidung",
+    "score": 6.2283,
+    "appearances": 0,
+    "semantic_score": 8.9859,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose einem ebenmäßigen",
+    "score": 6.2233,
+    "appearances": 0,
+    "semantic_score": 9.5788,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "druckfreier komfortbund",
+    "score": 6.2146,
+    "appearances": 4,
+    "semantic_score": 7.9575,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "unsichtbar damen elegante",
+    "score": 6.1976,
+    "appearances": 0,
+    "semantic_score": 8.6063,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose breiter komfortbund",
+    "score": 6.1873,
+    "appearances": 1,
+    "semantic_score": 9.3448,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "tragen moderne",
+    "score": 6.1846,
+    "appearances": 0,
+    "semantic_score": 8.5847,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "lycra",
+    "score": 6.183,
+    "appearances": 6,
+    "semantic_score": 6.1862,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "beine ihre zart",
+    "score": 6.179,
+    "appearances": 0,
+    "semantic_score": 8.5755,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "komfortbund damen",
+    "score": 6.1787,
+    "appearances": 2,
+    "semantic_score": 7.7717,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "transparente fein",
+    "score": 6.1502,
+    "appearances": 2,
+    "semantic_score": 7.8485,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "seidig glänzende",
+    "score": 6.1469,
+    "appearances": 3,
+    "semantic_score": 7.6845,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feine naht",
+    "score": 6.1423,
+    "appearances": 3,
+    "semantic_score": 8.0204,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "schuhen",
+    "score": 6.1361,
+    "appearances": 3,
+    "semantic_score": 7.9726,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "größen transparente fein",
+    "score": 6.1307,
+    "appearances": 1,
+    "semantic_score": 8.7276,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "glänzende",
+    "score": 6.1265,
+    "appearances": 4,
+    "semantic_score": 7.0371,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fußspitzen maschenstopp marke",
+    "score": 6.1253,
+    "appearances": 0,
+    "semantic_score": 9.4153,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "women",
+    "score": 6.0987,
+    "appearances": 2,
+    "semantic_score": 5.5619,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feines maschenbild",
+    "score": 6.0821,
+    "appearances": 1,
+    "semantic_score": 9.2548,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "zwickel bequemem abschlussbund",
+    "score": 6.0771,
+    "appearances": 0,
+    "semantic_score": 8.8606,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "glänzende fit",
+    "score": 6.0542,
+    "appearances": 1,
+    "semantic_score": 8.9503,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "zwickel bequemem",
+    "score": 6.0512,
+    "appearances": 0,
+    "semantic_score": 8.8174,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "elastan",
+    "score": 6.0473,
+    "appearances": 1,
+    "semantic_score": 9.1261,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "strumpfhose seidig",
+    "score": 6.0415,
+    "appearances": 5,
+    "semantic_score": 5.8515,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fein",
+    "score": 6.041,
+    "appearances": 7,
+    "semantic_score": 4.7871,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "elegante transparent",
+    "score": 6.0391,
+    "appearances": 2,
+    "semantic_score": 8.3423,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "transparent 15",
+    "score": 6.0365,
+    "appearances": 2,
+    "semantic_score": 6.6149,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "elastan macht",
+    "score": 6.0335,
+    "appearances": 1,
+    "semantic_score": 9.1031,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "attraktive beine ihre",
+    "score": 6.0194,
+    "appearances": 0,
+    "semantic_score": 8.3094,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ihre",
+    "score": 6.0093,
+    "appearances": 8,
+    "semantic_score": 4.8682,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dresmannst strumpfhosen",
+    "score": 6.0054,
+    "appearances": 1,
+    "semantic_score": 6.773,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "hochwertigen materialien",
+    "score": 5.9989,
+    "appearances": 3,
+    "semantic_score": 8.1104,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fußspitzen feinster softnaht",
+    "score": 5.9833,
+    "appearances": 0,
+    "semantic_score": 9.1375,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "komfortbund feine",
+    "score": 5.977,
+    "appearances": 2,
+    "semantic_score": 8.2388,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "bietet",
+    "score": 5.9761,
+    "appearances": 7,
+    "semantic_score": 5.3299,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose schwarz",
+    "score": 5.9718,
+    "appearances": 1,
+    "semantic_score": 6.7171,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "figurformende strumpfhosen damen",
+    "score": 5.9644,
+    "appearances": 1,
+    "semantic_score": 9.1473,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "schuhen tragen",
+    "score": 5.9598,
+    "appearances": 2,
+    "semantic_score": 8.21,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "garnkomposition ebenmäßig schöne",
+    "score": 5.9528,
+    "appearances": 0,
+    "semantic_score": 9.0866,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dehnbare weiche",
+    "score": 5.9416,
+    "appearances": 1,
+    "semantic_score": 9.0605,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "falke damen",
+    "score": 5.9212,
+    "appearances": 4,
+    "semantic_score": 7.4684,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "schimmernd reißfest druckfreier",
+    "score": 5.9206,
+    "appearances": 2,
+    "semantic_score": 8.3952,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fleece pantyhose dicke",
+    "score": 5.9059,
+    "appearances": 1,
+    "semantic_score": 6.8204,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "elastisch hohe taille",
+    "score": 5.9003,
+    "appearances": 1,
+    "semantic_score": 8.1495,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ihre beine",
+    "score": 5.8987,
+    "appearances": 3,
+    "semantic_score": 6.4522,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "es",
+    "score": 5.879,
+    "appearances": 4,
+    "semantic_score": 5.0148,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "strumpfhose nur",
+    "score": 5.8773,
+    "appearances": 0,
+    "semantic_score": 6.0628,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dank besonderem komfortbund",
+    "score": 5.8764,
+    "appearances": 2,
+    "semantic_score": 8.0712,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "reißfest druckfreier",
+    "score": 5.8727,
+    "appearances": 4,
+    "semantic_score": 7.3876,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "elastan macht strumpfhose",
+    "score": 5.8685,
+    "appearances": 0,
+    "semantic_score": 8.8282,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fit",
+    "score": 5.8552,
+    "appearances": 2,
+    "semantic_score": 6.0786,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "weiches material",
+    "score": 5.8534,
+    "appearances": 3,
+    "semantic_score": 7.7976,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "formen sanft spürbar",
+    "score": 5.8418,
+    "appearances": 0,
+    "semantic_score": 8.7689,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "attraktiven",
+    "score": 5.8335,
+    "appearances": 3,
+    "semantic_score": 6.7668,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "stützwirkung semi",
+    "score": 5.823,
+    "appearances": 2,
+    "semantic_score": 7.0271,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "besonderem komfortbund",
+    "score": 5.8198,
+    "appearances": 2,
+    "semantic_score": 7.9768,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "entlastet beine",
+    "score": 5.8114,
+    "appearances": 0,
+    "semantic_score": 7.7792,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "elastische taille bietet",
+    "score": 5.8051,
+    "appearances": 1,
+    "semantic_score": 8.833,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "nylon",
+    "score": 5.7982,
+    "appearances": 2,
+    "semantic_score": 7.6134,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fußspitzen",
+    "score": 5.775,
+    "appearances": 2,
+    "semantic_score": 8.1938,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "elastische",
+    "score": 5.767,
+    "appearances": 1,
+    "semantic_score": 7.9274,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "elegante matte",
+    "score": 5.7662,
+    "appearances": 0,
+    "semantic_score": 8.7755,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "transparent strumpfhose nur",
+    "score": 5.7645,
+    "appearances": 0,
+    "semantic_score": 7.8846,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "verarbeitet handwerklicher",
+    "score": 5.7556,
+    "appearances": 0,
+    "semantic_score": 8.1981,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose nur bietet",
+    "score": 5.7509,
+    "appearances": 0,
+    "semantic_score": 8.4447,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "tragen",
+    "score": 5.7492,
+    "appearances": 3,
+    "semantic_score": 7.3593,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose feines",
+    "score": 5.7483,
+    "appearances": 1,
+    "semantic_score": 8.6985,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose damen hoher",
+    "score": 5.7468,
+    "appearances": 0,
+    "semantic_score": 8.7846,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose verstärkte",
+    "score": 5.7444,
+    "appearances": 1,
+    "semantic_score": 8.7392,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "elastisch",
+    "score": 5.736,
+    "appearances": 1,
+    "semantic_score": 7.8757,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "20 strumpfhose",
+    "score": 5.7349,
+    "appearances": 1,
+    "semantic_score": 6.9989,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ebenmäßigen maschenbild",
+    "score": 5.7303,
+    "appearances": 1,
+    "semantic_score": 8.7571,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "silhouette",
+    "score": 5.7281,
+    "appearances": 2,
+    "semantic_score": 6.6045,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ebenmäßigen maschenbild sorgt",
+    "score": 5.7217,
+    "appearances": 1,
+    "semantic_score": 8.7427,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "bekleidung hochwertigen",
+    "score": 5.7198,
+    "appearances": 0,
+    "semantic_score": 8.1384,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "starke stützwirkung semi",
+    "score": 5.716,
+    "appearances": 2,
+    "semantic_score": 6.8487,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "seidig glänzende optik",
+    "score": 5.7078,
+    "appearances": 3,
+    "semantic_score": 6.9526,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "elegante transparente",
+    "score": 5.707,
+    "appearances": 0,
+    "semantic_score": 8.2696,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose breiter",
+    "score": 5.707,
+    "appearances": 1,
+    "semantic_score": 8.5443,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feines weiches nachhaltiges",
+    "score": 5.7043,
+    "appearances": 1,
+    "semantic_score": 8.6725,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "sich",
+    "score": 5.6999,
+    "appearances": 6,
+    "semantic_score": 5.5325,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "seidig matte optik",
+    "score": 5.6887,
+    "appearances": 1,
+    "semantic_score": 6.955,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "manzi",
+    "score": 5.6878,
+    "appearances": 1,
+    "semantic_score": 4.6763,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fußspitzen feinster",
+    "score": 5.6829,
+    "appearances": 0,
+    "semantic_score": 8.6367,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "figurformende strumpfhosen",
+    "score": 5.6805,
+    "appearances": 1,
+    "semantic_score": 8.6741,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "seidig",
+    "score": 5.6782,
+    "appearances": 6,
+    "semantic_score": 4.9289,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "hochwertigen materialien verarbeitet",
+    "score": 5.6782,
+    "appearances": 0,
+    "semantic_score": 8.069,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "material stück",
+    "score": 5.6705,
+    "appearances": 0,
+    "semantic_score": 7.0507,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "transparent strumpfhose",
+    "score": 5.6497,
+    "appearances": 2,
+    "semantic_score": 7.6932,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "flache nähte komfortbund",
+    "score": 5.6434,
+    "appearances": 0,
+    "semantic_score": 8.5709,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einen anatomisch abgestuften",
+    "score": 5.6374,
+    "appearances": 1,
+    "semantic_score": 8.2556,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "bekleidung hochwertigen materialien",
+    "score": 5.6351,
+    "appearances": 0,
+    "semantic_score": 7.9972,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "optik entlastet",
+    "score": 5.6269,
+    "appearances": 2,
+    "semantic_score": 6.7003,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "20 optik nur",
+    "score": 5.6012,
+    "appearances": 0,
+    "semantic_score": 7.3933,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen paar",
+    "score": 5.5971,
+    "appearances": 0,
+    "semantic_score": 6.0927,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "glänzende fit form",
+    "score": 5.5913,
+    "appearances": 0,
+    "semantic_score": 8.1788,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen strumpfhose blickdichte",
+    "score": 5.581,
+    "appearances": 1,
+    "semantic_score": 8.349,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "passend jeden hauttyp",
+    "score": 5.5769,
+    "appearances": 0,
+    "semantic_score": 7.8224,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feiner naht",
+    "score": 5.572,
+    "appearances": 2,
+    "semantic_score": 7.892,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fein strumpfhose matte",
+    "score": 5.5619,
+    "appearances": 0,
+    "semantic_score": 6.868,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fit form 40",
+    "score": 5.5548,
+    "appearances": 0,
+    "semantic_score": 5.578,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "strumpfhose matte optik",
+    "score": 5.5377,
+    "appearances": 2,
+    "semantic_score": 6.8277,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "faser lycra hat",
+    "score": 5.5346,
+    "appearances": 2,
+    "semantic_score": 7.5014,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose verstärkter",
+    "score": 5.5312,
+    "appearances": 0,
+    "semantic_score": 8.4252,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "15 fein strumpfhose",
+    "score": 5.5301,
+    "appearances": 0,
+    "semantic_score": 6.6565,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "strumpfhose transparent",
+    "score": 5.5279,
+    "appearances": 2,
+    "semantic_score": 7.7819,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einen zarten glanz",
+    "score": 5.5235,
+    "appearances": 1,
+    "semantic_score": 7.938,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "diese blickdichte",
+    "score": 5.5089,
+    "appearances": 1,
+    "semantic_score": 8.2288,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "diese",
+    "score": 5.5084,
+    "appearances": 4,
+    "semantic_score": 5.3104,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einem ebenmäßigen maschenbild",
+    "score": 5.5047,
+    "appearances": 1,
+    "semantic_score": 8.3811,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "3er pack",
+    "score": 5.495,
+    "appearances": 3,
+    "semantic_score": 6.2026,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "40 starke",
+    "score": 5.4934,
+    "appearances": 0,
+    "semantic_score": 6.4778,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feierlicher anlassstrumpfhosen",
+    "score": 5.4687,
+    "appearances": 1,
+    "semantic_score": 8.4587,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "naht unsichtbar",
+    "score": 5.468,
+    "appearances": 2,
+    "semantic_score": 7.3905,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "nur 3er pack",
+    "score": 5.4641,
+    "appearances": 0,
+    "semantic_score": 6.1512,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "sitz",
+    "score": 5.4591,
+    "appearances": 4,
+    "semantic_score": 6.3757,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "beinen",
+    "score": 5.4566,
+    "appearances": 2,
+    "semantic_score": 7.395,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "zaubert",
+    "score": 5.4557,
+    "appearances": 4,
+    "semantic_score": 6.0446,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "nur zaubert attraktive",
+    "score": 5.4525,
+    "appearances": 0,
+    "semantic_score": 7.3646,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "form 40 starke",
+    "score": 5.4504,
+    "appearances": 0,
+    "semantic_score": 6.4061,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "naht unsichtbar damen",
+    "score": 5.4502,
+    "appearances": 2,
+    "semantic_score": 7.3607,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "attraktive",
+    "score": 5.4445,
+    "appearances": 3,
+    "semantic_score": 6.7522,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "modische",
+    "score": 5.4423,
+    "appearances": 2,
+    "semantic_score": 7.6759,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "handwerklicher",
+    "score": 5.4362,
+    "appearances": 2,
+    "semantic_score": 7.6656,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "toeless",
+    "score": 5.4312,
+    "appearances": 2,
+    "semantic_score": 7.7003,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "aussehen",
+    "score": 5.4292,
+    "appearances": 2,
+    "semantic_score": 7.471,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einen leichten glanz",
+    "score": 5.4267,
+    "appearances": 1,
+    "semantic_score": 8.0919,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "strumpfhose ultra transparent",
+    "score": 5.4258,
+    "appearances": 2,
+    "semantic_score": 7.5706,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "40 starke stützwirkung",
+    "score": 5.421,
+    "appearances": 0,
+    "semantic_score": 6.357,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen strumpfhose",
+    "score": 5.4169,
+    "appearances": 2,
+    "semantic_score": 7.4871,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "elegante transparente optik",
+    "score": 5.4141,
+    "appearances": 0,
+    "semantic_score": 7.7815,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "glänzende optik",
+    "score": 5.4136,
+    "appearances": 3,
+    "semantic_score": 6.4624,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fleece",
+    "score": 5.4097,
+    "appearances": 1,
+    "semantic_score": 5.9934,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "glänzend reißfest",
+    "score": 5.4075,
+    "appearances": 1,
+    "semantic_score": 8.219,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ihren",
+    "score": 5.4065,
+    "appearances": 5,
+    "semantic_score": 4.9795,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "modische bekleidung",
+    "score": 5.4037,
+    "appearances": 2,
+    "semantic_score": 7.6115,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "schimmernde optik sie",
+    "score": 5.4034,
+    "appearances": 0,
+    "semantic_score": 7.2827,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "glanz beine",
+    "score": 5.3986,
+    "appearances": 0,
+    "semantic_score": 8.0451,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "materialien verarbeitet handwerklicher",
+    "score": 5.3897,
+    "appearances": 0,
+    "semantic_score": 7.5882,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "matte",
+    "score": 5.3825,
+    "appearances": 5,
+    "semantic_score": 3.43,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "20 optik",
+    "score": 5.3819,
+    "appearances": 0,
+    "semantic_score": 7.0276,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "farbige strumpfhosen damen",
+    "score": 5.3796,
+    "appearances": 0,
+    "semantic_score": 8.0133,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "zaubert attraktive",
+    "score": 5.378,
+    "appearances": 2,
+    "semantic_score": 7.2404,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "glanz ihre beine",
+    "score": 5.3772,
+    "appearances": 0,
+    "semantic_score": 7.6941,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fußspitzen maschenstopp",
+    "score": 5.3748,
+    "appearances": 0,
+    "semantic_score": 8.1645,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "druckfreie bündchen",
+    "score": 5.371,
+    "appearances": 1,
+    "semantic_score": 8.0697,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "optik sie",
+    "score": 5.3546,
+    "appearances": 0,
+    "semantic_score": 7.2014,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "pack",
+    "score": 5.352,
+    "appearances": 4,
+    "semantic_score": 5.384,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "transparent 15 fein",
+    "score": 5.3519,
+    "appearances": 0,
+    "semantic_score": 7.1969,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "elastisch hohe",
+    "score": 5.3513,
+    "appearances": 1,
+    "semantic_score": 7.2345,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gleichmäßigem maschenbild",
+    "score": 5.3382,
+    "appearances": 1,
+    "semantic_score": 7.6549,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "druckfreie bündchen hygienische",
+    "score": 5.3246,
+    "appearances": 0,
+    "semantic_score": 7.9923,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose 20 optik",
+    "score": 5.3235,
+    "appearances": 0,
+    "semantic_score": 7.9052,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "supersitz color",
+    "score": 5.3229,
+    "appearances": 1,
+    "semantic_score": 5.8909,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "diese blickdichte strumpfhose",
+    "score": 5.3152,
+    "appearances": 1,
+    "semantic_score": 7.9059,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "beine ihre",
+    "score": 5.3103,
+    "appearances": 0,
+    "semantic_score": 7.1275,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose leicht matter",
+    "score": 5.3051,
+    "appearances": 0,
+    "semantic_score": 7.3516,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feierlicher anlassstrumpfhosen damen",
+    "score": 5.3049,
+    "appearances": 0,
+    "semantic_score": 8.1857,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "elastischer",
+    "score": 5.2976,
+    "appearances": 1,
+    "semantic_score": 8.0361,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gesäß stützt anhebt",
+    "score": 5.2929,
+    "appearances": 0,
+    "semantic_score": 8.0282,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose damen",
+    "score": 5.2904,
+    "appearances": 1,
+    "semantic_score": 8.024,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "größen transparente",
+    "score": 5.2861,
+    "appearances": 1,
+    "semantic_score": 7.3198,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen supersitz color",
+    "score": 5.2764,
+    "appearances": 0,
+    "semantic_score": 7.3037,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "seidig matte",
+    "score": 5.2618,
+    "appearances": 1,
+    "semantic_score": 6.2435,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "falke damen seidenglatt",
+    "score": 5.2588,
+    "appearances": 1,
+    "semantic_score": 7.9711,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "paar",
+    "score": 5.2572,
+    "appearances": 2,
+    "semantic_score": 5.2139,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "hygienischer",
+    "score": 5.2495,
+    "appearances": 2,
+    "semantic_score": 7.3546,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "farben diese",
+    "score": 5.2489,
+    "appearances": 0,
+    "semantic_score": 7.7954,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "faser lycra bietet",
+    "score": 5.2474,
+    "appearances": 0,
+    "semantic_score": 6.6291,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "stützwirkung",
+    "score": 5.2412,
+    "appearances": 2,
+    "semantic_score": 6.0574,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fishnet stockings strümpfe",
+    "score": 5.2344,
+    "appearances": 1,
+    "semantic_score": 7.8818,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "starke",
+    "score": 5.2282,
+    "appearances": 2,
+    "semantic_score": 5.0335,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "zart schimmernde optik",
+    "score": 5.2279,
+    "appearances": 2,
+    "semantic_score": 6.9903,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen semi",
+    "score": 5.2271,
+    "appearances": 0,
+    "semantic_score": 7.5718,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "marke falke",
+    "score": 5.2232,
+    "appearances": 0,
+    "semantic_score": 6.7848,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "weiche",
+    "score": 5.222,
+    "appearances": 4,
+    "semantic_score": 6.282,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dehnbare weiche material",
+    "score": 5.2188,
+    "appearances": 1,
+    "semantic_score": 7.8558,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fit form",
+    "score": 5.2171,
+    "appearances": 0,
+    "semantic_score": 5.015,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dezent glänzende",
+    "score": 5.2126,
+    "appearances": 1,
+    "semantic_score": 7.5477,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "sternen1504",
+    "score": 5.2098,
+    "appearances": 1,
+    "semantic_score": 6.0599,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ihnen",
+    "score": 5.207,
+    "appearances": 5,
+    "semantic_score": 4.4417,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einen leichten",
+    "score": 5.2056,
+    "appearances": 1,
+    "semantic_score": 7.7234,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "stilvoll",
+    "score": 5.2019,
+    "appearances": 2,
+    "semantic_score": 7.2559,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "entstehen laufmaschen",
+    "score": 5.2018,
+    "appearances": 0,
+    "semantic_score": 7.4276,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "elastische taille",
+    "score": 5.1991,
+    "appearances": 1,
+    "semantic_score": 7.8231,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "taille definierte silhouette",
+    "score": 5.1954,
+    "appearances": 0,
+    "semantic_score": 7.0724,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gefütterte",
+    "score": 5.1905,
+    "appearances": 1,
+    "semantic_score": 5.628,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "eleganten auftrittdie",
+    "score": 5.1901,
+    "appearances": 1,
+    "semantic_score": 7.7681,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "beine po",
+    "score": 5.1798,
+    "appearances": 0,
+    "semantic_score": 6.6984,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "lycra bietet",
+    "score": 5.179,
+    "appearances": 0,
+    "semantic_score": 5.9545,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einen angenehmen druckfreien",
+    "score": 5.1743,
+    "appearances": 0,
+    "semantic_score": 7.7891,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "garnkomposition ebenmäßig",
+    "score": 5.1724,
+    "appearances": 0,
+    "semantic_score": 7.786,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "elegante matte optik",
+    "score": 5.1645,
+    "appearances": 0,
+    "semantic_score": 7.7727,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "formen sanft",
+    "score": 5.1608,
+    "appearances": 1,
+    "semantic_score": 7.634,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einen anatomisch",
+    "score": 5.1605,
+    "appearances": 1,
+    "semantic_score": 7.4608,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "flachnähtediese art",
+    "score": 5.1514,
+    "appearances": 1,
+    "semantic_score": 7.7923,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "elastische passform",
+    "score": 5.1485,
+    "appearances": 1,
+    "semantic_score": 7.7387,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fußspitze sie offene",
+    "score": 5.1468,
+    "appearances": 0,
+    "semantic_score": 7.6959,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "strümpfe",
+    "score": 5.1445,
+    "appearances": 1,
+    "semantic_score": 6.8899,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "farbige strumpfhosen",
+    "score": 5.1437,
+    "appearances": 1,
+    "semantic_score": 7.6202,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose einem",
+    "score": 5.1351,
+    "appearances": 0,
+    "semantic_score": 7.765,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "stück",
+    "score": 5.1323,
+    "appearances": 4,
+    "semantic_score": 6.1536,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "faser lycra",
+    "score": 5.1268,
+    "appearances": 4,
+    "semantic_score": 5.3709,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "hochwertigen",
+    "score": 5.1259,
+    "appearances": 3,
+    "semantic_score": 6.6555,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "3er",
+    "score": 5.1213,
+    "appearances": 3,
+    "semantic_score": 5.5798,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "flexiblen",
+    "score": 5.1189,
+    "appearances": 1,
+    "semantic_score": 7.7309,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "optik sie durchgehend",
+    "score": 5.1182,
+    "appearances": 0,
+    "semantic_score": 6.8074,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "20 densöckchen",
+    "score": 5.1156,
+    "appearances": 1,
+    "semantic_score": 7.2145,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einschneiden taille",
+    "score": 5.1152,
+    "appearances": 0,
+    "semantic_score": 7.558,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "schimmernde optik",
+    "score": 5.1128,
+    "appearances": 2,
+    "semantic_score": 6.7984,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gefütterte strumpfhose",
+    "score": 5.1065,
+    "appearances": 1,
+    "semantic_score": 5.488,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose schenkt ihrer",
+    "score": 5.1035,
+    "appearances": 1,
+    "semantic_score": 7.6239,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "sie ihre beine",
+    "score": 5.0966,
+    "appearances": 2,
+    "semantic_score": 6.6395,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "bauch beine po",
+    "score": 5.0962,
+    "appearances": 0,
+    "semantic_score": 6.5589,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose 20",
+    "score": 5.0933,
+    "appearances": 0,
+    "semantic_score": 7.5216,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "optik besonders",
+    "score": 5.0909,
+    "appearances": 0,
+    "semantic_score": 6.6593,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "große größen transparente",
+    "score": 5.0906,
+    "appearances": 1,
+    "semantic_score": 6.9941,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "tragen moderne verarbeitung",
+    "score": 5.0709,
+    "appearances": 0,
+    "semantic_score": 6.7285,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "starke stützwirkung",
+    "score": 5.0687,
+    "appearances": 2,
+    "semantic_score": 5.7698,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinen material handelt",
+    "score": 5.0664,
+    "appearances": 1,
+    "semantic_score": 7.6093,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "jeden hauttyp",
+    "score": 5.0651,
+    "appearances": 2,
+    "semantic_score": 6.9693,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "hauttyp",
+    "score": 5.0552,
+    "appearances": 2,
+    "semantic_score": 6.9528,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen hoher taille",
+    "score": 5.0531,
+    "appearances": 0,
+    "semantic_score": 7.6285,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "sternen1504 sternen1504",
+    "score": 5.0454,
+    "appearances": 0,
+    "semantic_score": 6.4416,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feine naht feines",
+    "score": 5.0435,
+    "appearances": 1,
+    "semantic_score": 7.5711,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "sie durchgehend transparent",
+    "score": 5.0389,
+    "appearances": 0,
+    "semantic_score": 6.6753,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gefütterte strumpfhose warm",
+    "score": 5.0388,
+    "appearances": 0,
+    "semantic_score": 5.3752,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einem stilvollen att",
+    "score": 5.0382,
+    "appearances": 0,
+    "semantic_score": 7.5548,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "diese edle transparente",
+    "score": 5.0361,
+    "appearances": 0,
+    "semantic_score": 7.6,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "bauch beine",
+    "score": 5.0336,
+    "appearances": 0,
+    "semantic_score": 6.4547,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "druckfreier",
+    "score": 5.0325,
+    "appearances": 4,
+    "semantic_score": 5.9873,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "entlastet beinekomfortbund damen",
+    "score": 5.0299,
+    "appearances": 0,
+    "semantic_score": 7.2432,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhosen",
+    "score": 5.0255,
+    "appearances": 1,
+    "semantic_score": 7.72,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ultra",
+    "score": 5.0178,
+    "appearances": 2,
+    "semantic_score": 5.3399,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "figurformende",
+    "score": 5.016,
+    "appearances": 1,
+    "semantic_score": 7.5667,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "sitz gibt",
+    "score": 5.016,
+    "appearances": 0,
+    "semantic_score": 6.637,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "leicht",
+    "score": 5.0136,
+    "appearances": 3,
+    "semantic_score": 5.8064,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "materialien",
+    "score": 5.0101,
+    "appearances": 3,
+    "semantic_score": 6.4624,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "form 40 feinstrumpfhose",
+    "score": 5.0093,
+    "appearances": 0,
+    "semantic_score": 7.2087,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gesäß stützt",
+    "score": 5.0066,
+    "appearances": 1,
+    "semantic_score": 7.5509,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinster softnaht",
+    "score": 4.9987,
+    "appearances": 1,
+    "semantic_score": 7.4965,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fleece pantyhose",
+    "score": 4.9975,
+    "appearances": 1,
+    "semantic_score": 5.3064,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "everswe",
+    "score": 4.9955,
+    "appearances": 2,
+    "semantic_score": 3.626,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "optik nur",
+    "score": 4.9939,
+    "appearances": 0,
+    "semantic_score": 6.381,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fußspitze sie",
+    "score": 4.9679,
+    "appearances": 0,
+    "semantic_score": 7.3978,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ebenmäßig schöne",
+    "score": 4.9673,
+    "appearances": 1,
+    "semantic_score": 7.4442,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "wie",
+    "score": 4.9664,
+    "appearances": 4,
+    "semantic_score": 4.5046,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einschneiden",
+    "score": 4.9643,
+    "appearances": 1,
+    "semantic_score": 7.3065,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "entstehen laufmaschen dank",
+    "score": 4.9633,
+    "appearances": 0,
+    "semantic_score": 7.0301,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose feiner",
+    "score": 4.951,
+    "appearances": 0,
+    "semantic_score": 7.4586,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "glanz",
+    "score": 4.9437,
+    "appearances": 2,
+    "semantic_score": 6.2875,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feiner naht feines",
+    "score": 4.9421,
+    "appearances": 1,
+    "semantic_score": 7.4434,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "for women bestehen",
+    "score": 4.9395,
+    "appearances": 1,
+    "semantic_score": 7.3903,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "strumpfhose nur zaubert",
+    "score": 4.9355,
+    "appearances": 0,
+    "semantic_score": 6.5029,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "es umfass profi",
+    "score": 4.9327,
+    "appearances": 0,
+    "semantic_score": 7.4206,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "shaper",
+    "score": 4.9316,
+    "appearances": 1,
+    "semantic_score": 5.8394,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "lycra hat",
+    "score": 4.9308,
+    "appearances": 2,
+    "semantic_score": 6.4951,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "transparent 15 lässt",
+    "score": 4.92,
+    "appearances": 0,
+    "semantic_score": 6.4771,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dicke",
+    "score": 4.916,
+    "appearances": 1,
+    "semantic_score": 5.1706,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "durchgehend transparent 15",
+    "score": 4.9131,
+    "appearances": 0,
+    "semantic_score": 6.4656,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "formt taille",
+    "score": 4.9121,
+    "appearances": 0,
+    "semantic_score": 6.6002,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "flachnähtediese art nähens",
+    "score": 4.9119,
+    "appearances": 0,
+    "semantic_score": 7.3931,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "figur machen",
+    "score": 4.9038,
+    "appearances": 0,
+    "semantic_score": 7.3309,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen shelina toeless",
+    "score": 4.9008,
+    "appearances": 1,
+    "semantic_score": 7.2861,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "unsichtbar damen",
+    "score": 4.8969,
+    "appearances": 2,
+    "semantic_score": 6.4385,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "strumpfhose matte",
+    "score": 4.8916,
+    "appearances": 2,
+    "semantic_score": 5.7508,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "druckfreien sitz",
+    "score": 4.8864,
+    "appearances": 1,
+    "semantic_score": 7.3092,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "sind",
+    "score": 4.8699,
+    "appearances": 4,
+    "semantic_score": 4.7869,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose schenkt",
+    "score": 4.8615,
+    "appearances": 1,
+    "semantic_score": 7.2205,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fishnet stockings",
+    "score": 4.8508,
+    "appearances": 1,
+    "semantic_score": 7.2425,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gegründet hängt flexiblen",
+    "score": 4.8453,
+    "appearances": 0,
+    "semantic_score": 7.2749,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "zart schimmernde",
+    "score": 4.841,
+    "appearances": 2,
+    "semantic_score": 6.3454,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "nur 3er",
+    "score": 4.8328,
+    "appearances": 0,
+    "semantic_score": 5.0989,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "eleganten",
+    "score": 4.8321,
+    "appearances": 1,
+    "semantic_score": 7.1714,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ultra transparent",
+    "score": 4.8253,
+    "appearances": 2,
+    "semantic_score": 6.5697,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "matt 20 strumpfhose",
+    "score": 4.8253,
+    "appearances": 1,
+    "semantic_score": 6.3726,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "zwickel ihre beine",
+    "score": 4.8251,
+    "appearances": 0,
+    "semantic_score": 7.1599,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose nachhaltiger",
+    "score": 4.824,
+    "appearances": 0,
+    "semantic_score": 7.2052,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "farbige",
+    "score": 4.8211,
+    "appearances": 1,
+    "semantic_score": 7.0824,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "entlastet beinekomfortbund",
+    "score": 4.8164,
+    "appearances": 0,
+    "semantic_score": 6.8873,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einem stilvollen",
+    "score": 4.8087,
+    "appearances": 1,
+    "semantic_score": 7.1724,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "materialien verarbeitet",
+    "score": 4.8012,
+    "appearances": 0,
+    "semantic_score": 6.6074,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "herstellung moderner",
+    "score": 4.7897,
+    "appearances": 3,
+    "semantic_score": 6.0623,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "durchgehend transparent",
+    "score": 4.7895,
+    "appearances": 2,
+    "semantic_score": 6.2596,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "edle transparente falke",
+    "score": 4.7767,
+    "appearances": 0,
+    "semantic_score": 7.1677,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhosen sind",
+    "score": 4.7702,
+    "appearances": 1,
+    "semantic_score": 7.2946,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "erlesener qualität bequem",
+    "score": 4.7652,
+    "appearances": 0,
+    "semantic_score": 7.2863,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "hoher taille",
+    "score": 4.7497,
+    "appearances": 1,
+    "semantic_score": 6.3296,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "hauttyp wie",
+    "score": 4.7494,
+    "appearances": 0,
+    "semantic_score": 6.4431,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ihre zart",
+    "score": 4.7424,
+    "appearances": 2,
+    "semantic_score": 6.1811,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "perfekten sitz gibt",
+    "score": 4.7373,
+    "appearances": 0,
+    "semantic_score": 6.1725,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinster softnaht sorgen",
+    "score": 4.7312,
+    "appearances": 1,
+    "semantic_score": 7.0506,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "verhindert",
+    "score": 4.7302,
+    "appearances": 3,
+    "semantic_score": 4.4465,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose nur",
+    "score": 4.7302,
+    "appearances": 0,
+    "semantic_score": 6.7435,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einen zarten",
+    "score": 4.7238,
+    "appearances": 1,
+    "semantic_score": 6.6051,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "denfeinstrumpfhose weichen haltbaren",
+    "score": 4.7133,
+    "appearances": 0,
+    "semantic_score": 7.0622,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "color",
+    "score": 4.7097,
+    "appearances": 1,
+    "semantic_score": 4.8689,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einen perfekten sitz",
+    "score": 4.7032,
+    "appearances": 2,
+    "semantic_score": 6.1157,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "anatomisch",
+    "score": 4.6993,
+    "appearances": 2,
+    "semantic_score": 5.9797,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "elastische passform design",
+    "score": 4.6826,
+    "appearances": 0,
+    "semantic_score": 6.9622,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "hohe taille",
+    "score": 4.6801,
+    "appearances": 1,
+    "semantic_score": 6.1158,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "diese leicht schimmernde",
+    "score": 4.6697,
+    "appearances": 1,
+    "semantic_score": 6.9008,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "schimmernde",
+    "score": 4.6618,
+    "appearances": 3,
+    "semantic_score": 5.5154,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dank",
+    "score": 4.6479,
+    "appearances": 4,
+    "semantic_score": 4.4987,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "glanz ihre",
+    "score": 4.6442,
+    "appearances": 0,
+    "semantic_score": 6.4725,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "jeden hauttyp wie",
+    "score": 4.6399,
+    "appearances": 0,
+    "semantic_score": 6.2607,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "perfekten sitz",
+    "score": 4.636,
+    "appearances": 2,
+    "semantic_score": 6.0038,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "figur machen sie",
+    "score": 4.6323,
+    "appearances": 0,
+    "semantic_score": 6.8784,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen setzen",
+    "score": 4.631,
+    "appearances": 1,
+    "semantic_score": 6.4505,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "figurzwickel gr xl",
+    "score": 4.6239,
+    "appearances": 0,
+    "semantic_score": 6.3118,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "hergestellt",
+    "score": 4.6217,
+    "appearances": 3,
+    "semantic_score": 5.6558,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "elastischer push",
+    "score": 4.6196,
+    "appearances": 0,
+    "semantic_score": 6.9061,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "lycra hat strumpfhose",
+    "score": 4.6175,
+    "appearances": 0,
+    "semantic_score": 5.9729,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "naht feines",
+    "score": 4.6134,
+    "appearances": 2,
+    "semantic_score": 6.2578,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dresmannst",
+    "score": 4.6105,
+    "appearances": 1,
+    "semantic_score": 4.4482,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "haltbarkeit",
+    "score": 4.6104,
+    "appearances": 2,
+    "semantic_score": 5.5987,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "densöckchen",
+    "score": 4.5999,
+    "appearances": 1,
+    "semantic_score": 6.355,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "besonders",
+    "score": 4.5981,
+    "appearances": 3,
+    "semantic_score": 4.4019,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "sitz gibt ihnen",
+    "score": 4.5938,
+    "appearances": 0,
+    "semantic_score": 5.9334,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "po",
+    "score": 4.5895,
+    "appearances": 1,
+    "semantic_score": 3.7799,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "schwarz",
+    "score": 4.5862,
+    "appearances": 2,
+    "semantic_score": 4.059,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "glänzend",
+    "score": 4.5795,
+    "appearances": 1,
+    "semantic_score": 6.839,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "glatt natürlich spezielle",
+    "score": 4.5787,
+    "appearances": 0,
+    "semantic_score": 6.7492,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "wirkung gr figurzwickel",
+    "score": 4.576,
+    "appearances": 0,
+    "semantic_score": 6.2321,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gibt",
+    "score": 4.5722,
+    "appearances": 3,
+    "semantic_score": 5.3101,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "entlastet",
+    "score": 4.5693,
+    "appearances": 2,
+    "semantic_score": 4.9376,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "12 strumpfhose ultra",
+    "score": 4.5685,
+    "appearances": 0,
+    "semantic_score": 6.1418,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "verstärkte",
+    "score": 4.5633,
+    "appearances": 3,
+    "semantic_score": 5.1321,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "eingestrickt wird anstatt",
+    "score": 4.5627,
+    "appearances": 0,
+    "semantic_score": 6.6519,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "figurzwickel gr",
+    "score": 4.5568,
+    "appearances": 0,
+    "semantic_score": 6.1999,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gleichmäßig alle richtungen",
+    "score": 4.5552,
+    "appearances": 0,
+    "semantic_score": 6.6393,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "falke modische",
+    "score": 4.5536,
+    "appearances": 0,
+    "semantic_score": 6.1947,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ergeben feines",
+    "score": 4.5524,
+    "appearances": 0,
+    "semantic_score": 6.7053,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "figurzwickel",
+    "score": 4.5516,
+    "appearances": 2,
+    "semantic_score": 6.1914,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "verleiht",
+    "score": 4.5507,
+    "appearances": 3,
+    "semantic_score": 5.4326,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "for women",
+    "score": 4.5428,
+    "appearances": 1,
+    "semantic_score": 6.7292,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "figur",
+    "score": 4.5412,
+    "appearances": 1,
+    "semantic_score": 6.7265,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "strumpfhose ultra",
+    "score": 4.5405,
+    "appearances": 2,
+    "semantic_score": 6.0949,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "sitzt",
+    "score": 4.5322,
+    "appearances": 2,
+    "semantic_score": 5.437,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen seidenglatt",
+    "score": 4.532,
+    "appearances": 1,
+    "semantic_score": 6.7599,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "schöne",
+    "score": 4.5302,
+    "appearances": 2,
+    "semantic_score": 5.9791,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gr figurzwickel gr",
+    "score": 4.5297,
+    "appearances": 0,
+    "semantic_score": 6.1549,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ferse sorgt offenen",
+    "score": 4.5258,
+    "appearances": 0,
+    "semantic_score": 6.6609,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "verarbeitet handwerklicher perfektion",
+    "score": 4.5239,
+    "appearances": 0,
+    "semantic_score": 6.1452,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "flache nähte",
+    "score": 4.5227,
+    "appearances": 1,
+    "semantic_score": 6.7031,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "denfeinstrumpfhose weichen",
+    "score": 4.5195,
+    "appearances": 0,
+    "semantic_score": 6.7392,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "semi",
+    "score": 4.5175,
+    "appearances": 2,
+    "semantic_score": 3.8492,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gefühl haut komfortable",
+    "score": 4.5072,
+    "appearances": 0,
+    "semantic_score": 6.7186,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "formt taille definierte",
+    "score": 4.4996,
+    "appearances": 0,
+    "semantic_score": 5.9127,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ideale sommerstrumpfhose",
+    "score": 4.4962,
+    "appearances": 2,
+    "semantic_score": 6.0212,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "eignet",
+    "score": 4.494,
+    "appearances": 1,
+    "semantic_score": 6.5373,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "densöckchen 20",
+    "score": 4.4871,
+    "appearances": 1,
+    "semantic_score": 6.167,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einen sommerlichen teint",
+    "score": 4.4857,
+    "appearances": 1,
+    "semantic_score": 6.5941,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "farben diese strumpfhose",
+    "score": 4.4855,
+    "appearances": 0,
+    "semantic_score": 6.5231,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einen besseren sitz",
+    "score": 4.4801,
+    "appearances": 1,
+    "semantic_score": 6.5142,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gr figurzwickel",
+    "score": 4.4777,
+    "appearances": 0,
+    "semantic_score": 6.0682,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dank zwickel",
+    "score": 4.4736,
+    "appearances": 1,
+    "semantic_score": 6.1881,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "nur zaubert",
+    "score": 4.4694,
+    "appearances": 0,
+    "semantic_score": 5.7261,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "sternen1504 sternen1504 sternen1504",
+    "score": 4.4693,
+    "appearances": 0,
+    "semantic_score": 6.1372,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "perfekt",
+    "score": 4.4639,
+    "appearances": 4,
+    "semantic_score": 3.6806,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "falke damen pure",
+    "score": 4.4564,
+    "appearances": 1,
+    "semantic_score": 6.5926,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "sorgt",
+    "score": 4.455,
+    "appearances": 3,
+    "semantic_score": 4.7285,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "formkraft hohem tragekomfort",
+    "score": 4.4544,
+    "appearances": 0,
+    "semantic_score": 6.4566,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "design sorgt",
+    "score": 4.4407,
+    "appearances": 1,
+    "semantic_score": 6.559,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "steht",
+    "score": 4.4368,
+    "appearances": 3,
+    "semantic_score": 4.9541,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "12 strumpfhose",
+    "score": 4.428,
+    "appearances": 0,
+    "semantic_score": 5.9075,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "15 strumpfhose",
+    "score": 4.4274,
+    "appearances": 0,
+    "semantic_score": 6.5856,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "naht",
+    "score": 4.426,
+    "appearances": 6,
+    "semantic_score": 4.0807,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "familiengeführte deutsche premiummarke",
+    "score": 4.4167,
+    "appearances": 3,
+    "semantic_score": 5.4407,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "zwickel",
+    "score": 4.4153,
+    "appearances": 4,
+    "semantic_score": 4.6439,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "falke damen shelina",
+    "score": 4.4125,
+    "appearances": 2,
+    "semantic_score": 5.8817,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "edle transparente",
+    "score": 4.4115,
+    "appearances": 0,
+    "semantic_score": 6.559,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "definierte silhouette",
+    "score": 4.4113,
+    "appearances": 1,
+    "semantic_score": 5.7655,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "flachnähtediese",
+    "score": 4.4079,
+    "appearances": 1,
+    "semantic_score": 6.5531,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "hohen tragekomfort",
+    "score": 4.4018,
+    "appearances": 2,
+    "semantic_score": 4.9118,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "form 40",
+    "score": 4.401,
+    "appearances": 2,
+    "semantic_score": 3.655,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gesamtfläche",
+    "score": 4.3999,
+    "appearances": 1,
+    "semantic_score": 6.5325,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gr",
+    "score": 4.3977,
+    "appearances": 2,
+    "semantic_score": 4.5401,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einzigartige natürlichkeit diese",
+    "score": 4.3943,
+    "appearances": 0,
+    "semantic_score": 6.5306,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "20 densöckchen 20",
+    "score": 4.3919,
+    "appearances": 1,
+    "semantic_score": 6.0082,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "material stück produktinformation",
+    "score": 4.3888,
+    "appearances": 0,
+    "semantic_score": 4.9144,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "schimmernd reißfest",
+    "score": 4.3855,
+    "appearances": 2,
+    "semantic_score": 5.8366,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "hohen",
+    "score": 4.379,
+    "appearances": 3,
+    "semantic_score": 4.4755,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "hat strumpfhose",
+    "score": 4.3755,
+    "appearances": 0,
+    "semantic_score": 5.5696,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "definierte silhouette umschließt",
+    "score": 4.3676,
+    "appearances": 0,
+    "semantic_score": 6.486,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "wie make",
+    "score": 4.3668,
+    "appearances": 2,
+    "semantic_score": 5.0303,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "20 denevernew",
+    "score": 4.3663,
+    "appearances": 1,
+    "semantic_score": 4.6539,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einem ebenmäßigen",
+    "score": 4.358,
+    "appearances": 1,
+    "semantic_score": 6.4699,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "tolles",
+    "score": 4.3558,
+    "appearances": 2,
+    "semantic_score": 5.5367,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "druckfreien sitz begleiter",
+    "score": 4.3556,
+    "appearances": 0,
+    "semantic_score": 6.4246,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen strumpfhose paar",
+    "score": 4.3464,
+    "appearances": 0,
+    "semantic_score": 6.4434,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "handwerklicher perfektion",
+    "score": 4.3421,
+    "appearances": 2,
+    "semantic_score": 5.8422,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "design",
+    "score": 4.3231,
+    "appearances": 1,
+    "semantic_score": 6.3631,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ihre zart schimmernde",
+    "score": 4.3217,
+    "appearances": 2,
+    "semantic_score": 5.48,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "führte modernsten equipments",
+    "score": 4.32,
+    "appearances": 0,
+    "semantic_score": 6.3995,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "farben",
+    "score": 4.3142,
+    "appearances": 1,
+    "semantic_score": 6.2377,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "geeignet",
+    "score": 4.3137,
+    "appearances": 1,
+    "semantic_score": 6.3075,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "denevernew 20",
+    "score": 4.3109,
+    "appearances": 1,
+    "semantic_score": 4.5617,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "strumpfhose einen perfekten",
+    "score": 4.3095,
+    "appearances": 2,
+    "semantic_score": 5.4596,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "eignet sich",
+    "score": 4.3084,
+    "appearances": 1,
+    "semantic_score": 6.228,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "20 denevernew 20",
+    "score": 4.3068,
+    "appearances": 1,
+    "semantic_score": 4.5549,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "sich ideal offenen",
+    "score": 4.3042,
+    "appearances": 0,
+    "semantic_score": 5.4507,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "densöckchen 20 densöckchen",
+    "score": 4.2829,
+    "appearances": 1,
+    "semantic_score": 6.4823,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "moderner",
+    "score": 4.2784,
+    "appearances": 3,
+    "semantic_score": 5.2101,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen diese",
+    "score": 4.278,
+    "appearances": 0,
+    "semantic_score": 6.1773,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "taille definierte",
+    "score": 4.2759,
+    "appearances": 0,
+    "semantic_score": 5.5399,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen seidenglatt 15",
+    "score": 4.2743,
+    "appearances": 1,
+    "semantic_score": 6.3304,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "verarbeitet",
+    "score": 4.2698,
+    "appearances": 2,
+    "semantic_score": 5.7217,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "schimmernd",
+    "score": 4.2579,
+    "appearances": 2,
+    "semantic_score": 5.624,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "hohe",
+    "score": 4.2566,
+    "appearances": 1,
+    "semantic_score": 4.5679,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "flache",
+    "score": 4.2549,
+    "appearances": 1,
+    "semantic_score": 6.2567,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "supersitz",
+    "score": 4.2492,
+    "appearances": 1,
+    "semantic_score": 4.1014,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "bauch",
+    "score": 4.2453,
+    "appearances": 2,
+    "semantic_score": 2.9769,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "falke feinstrumpfhose einem",
+    "score": 4.2449,
+    "appearances": 0,
+    "semantic_score": 6.2813,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "elastizität elastische passform",
+    "score": 4.2395,
+    "appearances": 0,
+    "semantic_score": 6.2237,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einem",
+    "score": 4.2384,
+    "appearances": 3,
+    "semantic_score": 5.1046,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "unsichtbar",
+    "score": 4.237,
+    "appearances": 2,
+    "semantic_score": 5.3388,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ebenmäßigen",
+    "score": 4.2314,
+    "appearances": 1,
+    "semantic_score": 6.2589,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "eng ihren",
+    "score": 4.2314,
+    "appearances": 0,
+    "semantic_score": 6.2101,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "design sorgt dafür",
+    "score": 4.2241,
+    "appearances": 1,
+    "semantic_score": 6.1981,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "verarbeitung",
+    "score": 4.2188,
+    "appearances": 4,
+    "semantic_score": 3.7835,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "shaping",
+    "score": 4.2184,
+    "appearances": 1,
+    "semantic_score": 5.096,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen shelina 12",
+    "score": 4.2164,
+    "appearances": 1,
+    "semantic_score": 6.2342,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "falke familiengeführte deutsche",
+    "score": 4.2143,
+    "appearances": 0,
+    "semantic_score": 5.1033,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "garnkomposition",
+    "score": 4.2141,
+    "appearances": 1,
+    "semantic_score": 6.1887,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "offenen",
+    "score": 4.2118,
+    "appearances": 3,
+    "semantic_score": 4.7654,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "füßen anliegen",
+    "score": 4.2081,
+    "appearances": 1,
+    "semantic_score": 6.1714,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "eleganten auftrittdie ideale",
+    "score": 4.2007,
+    "appearances": 1,
+    "semantic_score": 6.1191,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "moderne",
+    "score": 4.2004,
+    "appearances": 2,
+    "semantic_score": 5.2777,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "handwerklicher perfektion liebe",
+    "score": 4.198,
+    "appearances": 0,
+    "semantic_score": 5.6019,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen pure matt",
+    "score": 4.1941,
+    "appearances": 1,
+    "semantic_score": 6.1554,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "stück produktinformation diese",
+    "score": 4.1894,
+    "appearances": 0,
+    "semantic_score": 5.5096,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen pure",
+    "score": 4.1805,
+    "appearances": 1,
+    "semantic_score": 6.1328,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen shelina",
+    "score": 4.1774,
+    "appearances": 2,
+    "semantic_score": 5.4898,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einzelnen abgestimmt sind",
+    "score": 4.1705,
+    "appearances": 2,
+    "semantic_score": 5.5561,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gebrauch",
+    "score": 4.1699,
+    "appearances": 1,
+    "semantic_score": 5.9971,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "lässt",
+    "score": 4.1667,
+    "appearances": 3,
+    "semantic_score": 4.6341,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "zehenfreie",
+    "score": 4.1643,
+    "appearances": 2,
+    "semantic_score": 5.5887,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "tragekomfort",
+    "score": 4.1626,
+    "appearances": 4,
+    "semantic_score": 3.6542,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "formt hüftenpush",
+    "score": 4.1493,
+    "appearances": 0,
+    "semantic_score": 6.1221,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinen material",
+    "score": 4.1492,
+    "appearances": 1,
+    "semantic_score": 6.0807,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "marke",
+    "score": 4.1491,
+    "appearances": 5,
+    "semantic_score": 4.0991,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "seidenfein",
+    "score": 4.1486,
+    "appearances": 1,
+    "semantic_score": 4.3786,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "zwickel ihre",
+    "score": 4.1373,
+    "appearances": 0,
+    "semantic_score": 6.0136,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "verarbeitung faser lycra",
+    "score": 4.1373,
+    "appearances": 0,
+    "semantic_score": 4.3351,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "diese edle",
+    "score": 4.137,
+    "appearances": 1,
+    "semantic_score": 6.1015,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "diese strumpfhose bietet",
+    "score": 4.129,
+    "appearances": 1,
+    "semantic_score": 6.0885,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "12 appearance",
+    "score": 4.1201,
+    "appearances": 0,
+    "semantic_score": 6.0737,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dank besonderem",
+    "score": 4.1118,
+    "appearances": 2,
+    "semantic_score": 5.1302,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "produktinformation diese",
+    "score": 4.1117,
+    "appearances": 0,
+    "semantic_score": 5.3801,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einzelnen",
+    "score": 4.0994,
+    "appearances": 2,
+    "semantic_score": 5.4376,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen setzen sie",
+    "score": 4.0987,
+    "appearances": 1,
+    "semantic_score": 5.5633,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "hygienischer wirkung gr",
+    "score": 4.0944,
+    "appearances": 0,
+    "semantic_score": 5.4293,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dass sie eng",
+    "score": 4.0928,
+    "appearances": 1,
+    "semantic_score": 5.9792,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "hoher",
+    "score": 4.092,
+    "appearances": 1,
+    "semantic_score": 5.2334,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "herstellung",
+    "score": 4.0912,
+    "appearances": 3,
+    "semantic_score": 4.8981,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "innovativer zwickel",
+    "score": 4.0907,
+    "appearances": 2,
+    "semantic_score": 5.4232,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "stück produktinformation",
+    "score": 4.089,
+    "appearances": 4,
+    "semantic_score": 4.4149,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "druckstellen nahtlose",
+    "score": 4.0883,
+    "appearances": 0,
+    "semantic_score": 5.9318,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "spandex",
+    "score": 4.088,
+    "appearances": 2,
+    "semantic_score": 4.3982,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einzigartige",
+    "score": 4.0877,
+    "appearances": 1,
+    "semantic_score": 6.0197,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dass gesamtfläche",
+    "score": 4.0814,
+    "appearances": 0,
+    "semantic_score": 6.0017,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "pure matt 20",
+    "score": 4.0793,
+    "appearances": 1,
+    "semantic_score": 5.1294,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "zart",
+    "score": 4.076,
+    "appearances": 2,
+    "semantic_score": 5.0704,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "druckstellen nahtlose ferse",
+    "score": 4.0672,
+    "appearances": 0,
+    "semantic_score": 5.8967,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "zwickel netzstruktur hygienischer",
+    "score": 4.0659,
+    "appearances": 0,
+    "semantic_score": 5.3819,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "eingestrickt wird",
+    "score": 4.0628,
+    "appearances": 1,
+    "semantic_score": 5.8187,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "lycra bietet ihnen",
+    "score": 4.06,
+    "appearances": 0,
+    "semantic_score": 4.6501,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "seit",
+    "score": 4.0568,
+    "appearances": 3,
+    "semantic_score": 3.5979,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dezent",
+    "score": 4.0528,
+    "appearances": 1,
+    "semantic_score": 5.6146,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einen sommerlichen",
+    "score": 4.0516,
+    "appearances": 1,
+    "semantic_score": 5.8707,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "effektive formkraft hohem",
+    "score": 4.05,
+    "appearances": 0,
+    "semantic_score": 5.7827,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "faser",
+    "score": 4.0482,
+    "appearances": 4,
+    "semantic_score": 3.5732,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "es umfass",
+    "score": 4.0437,
+    "appearances": 1,
+    "semantic_score": 5.939,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "passend jeden",
+    "score": 4.043,
+    "appearances": 0,
+    "semantic_score": 5.2659,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "spitze",
+    "score": 4.0379,
+    "appearances": 2,
+    "semantic_score": 4.7225,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "15 fein",
+    "score": 4.0379,
+    "appearances": 0,
+    "semantic_score": 4.1694,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "eingestrickt",
+    "score": 4.0302,
+    "appearances": 1,
+    "semantic_score": 5.7644,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "überlap",
+    "score": 4.0294,
+    "appearances": 1,
+    "semantic_score": 5.9224,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ebenmäßig",
+    "score": 4.0282,
+    "appearances": 1,
+    "semantic_score": 5.8789,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "haut",
+    "score": 4.0204,
+    "appearances": 3,
+    "semantic_score": 4.043,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einsatz faser lycra",
+    "score": 4.0088,
+    "appearances": 0,
+    "semantic_score": 5.5413,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen hoher",
+    "score": 4.0062,
+    "appearances": 0,
+    "semantic_score": 5.8837,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "vielzahl",
+    "score": 4.0041,
+    "appearances": 2,
+    "semantic_score": 5.0608,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dicke plüschstrümpfe",
+    "score": 4.0031,
+    "appearances": 1,
+    "semantic_score": 3.649,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "definierte silhouette formt",
+    "score": 3.997,
+    "appearances": 0,
+    "semantic_score": 5.8684,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen erlesener",
+    "score": 3.996,
+    "appearances": 0,
+    "semantic_score": 6.0042,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "elastizität elastische",
+    "score": 3.9956,
+    "appearances": 0,
+    "semantic_score": 5.8172,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "hat strumpfhose einen",
+    "score": 3.9811,
+    "appearances": 0,
+    "semantic_score": 4.9123,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "formkraft",
+    "score": 3.9792,
+    "appearances": 1,
+    "semantic_score": 5.6646,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "reihe",
+    "score": 3.9757,
+    "appearances": 1,
+    "semantic_score": 4.7208,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen push",
+    "score": 3.9716,
+    "appearances": 1,
+    "semantic_score": 5.826,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ideale",
+    "score": 3.9714,
+    "appearances": 2,
+    "semantic_score": 5.1465,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einzigartige natürlichkeit",
+    "score": 3.9641,
+    "appearances": 1,
+    "semantic_score": 5.8137,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "durchgehend",
+    "score": 3.9621,
+    "appearances": 2,
+    "semantic_score": 4.8805,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "besonderem",
+    "score": 3.9606,
+    "appearances": 2,
+    "semantic_score": 4.8781,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen supersitz",
+    "score": 3.9601,
+    "appearances": 0,
+    "semantic_score": 5.1098,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "bietet ihnen",
+    "score": 3.9563,
+    "appearances": 2,
+    "semantic_score": 4.4772,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "denevernew 20 denevernew",
+    "score": 3.9532,
+    "appearances": 1,
+    "semantic_score": 4.6213,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "produktinformation",
+    "score": 3.9486,
+    "appearances": 4,
+    "semantic_score": 4.1808,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "druckverlauf strumpfhose sitzt",
+    "score": 3.9442,
+    "appearances": 0,
+    "semantic_score": 5.4336,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "sie ihre",
+    "score": 3.9438,
+    "appearances": 3,
+    "semantic_score": 4.2702,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "familiengeführte deutsche",
+    "score": 3.9433,
+    "appearances": 3,
+    "semantic_score": 4.6516,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einem umweltschonenden mechanischen",
+    "score": 3.9427,
+    "appearances": 1,
+    "semantic_score": 5.7364,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "liebe detail",
+    "score": 3.9418,
+    "appearances": 0,
+    "semantic_score": 5.175,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "art",
+    "score": 3.9401,
+    "appearances": 2,
+    "semantic_score": 5.1293,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gebildet manzi zertifiziert",
+    "score": 3.936,
+    "appearances": 0,
+    "semantic_score": 5.7595,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen erlesener qualität",
+    "score": 3.9266,
+    "appearances": 0,
+    "semantic_score": 5.8885,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "denfeinstrumpfhose",
+    "score": 3.9249,
+    "appearances": 1,
+    "semantic_score": 5.7482,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "große auswahl verschiedener",
+    "score": 3.9216,
+    "appearances": 1,
+    "semantic_score": 5.7428,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinster",
+    "score": 3.9198,
+    "appearances": 1,
+    "semantic_score": 5.6983,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "größen",
+    "score": 3.9155,
+    "appearances": 2,
+    "semantic_score": 4.5122,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "bündchen",
+    "score": 3.9114,
+    "appearances": 2,
+    "semantic_score": 5.0462,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "formkraft hohem",
+    "score": 3.9104,
+    "appearances": 0,
+    "semantic_score": 5.5499,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gesäß",
+    "score": 3.9093,
+    "appearances": 1,
+    "semantic_score": 5.7222,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "diese leicht",
+    "score": 3.8916,
+    "appearances": 1,
+    "semantic_score": 5.6041,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "abgestimmt sind",
+    "score": 3.8866,
+    "appearances": 2,
+    "semantic_score": 5.0829,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "persönliche",
+    "score": 3.8813,
+    "appearances": 3,
+    "semantic_score": 4.5482,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "füßen anliegen abzurutschen",
+    "score": 3.8787,
+    "appearances": 0,
+    "semantic_score": 5.6223,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einkaufswagenin einkaufswagenkaufoptionenkundenrezensionen4 sternen1504",
+    "score": 3.8774,
+    "appearances": 0,
+    "semantic_score": 5.8066,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "12 appearance marke",
+    "score": 3.8718,
+    "appearances": 0,
+    "semantic_score": 5.6598,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "everswe 80d microfaser",
+    "score": 3.8696,
+    "appearances": 1,
+    "semantic_score": 5.4967,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "geeignet bequemes tragegefühl",
+    "score": 3.8692,
+    "appearances": 0,
+    "semantic_score": 5.5666,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einen angenehmen",
+    "score": 3.869,
+    "appearances": 1,
+    "semantic_score": 5.6135,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen goodbye laufmaschen",
+    "score": 3.8647,
+    "appearances": 0,
+    "semantic_score": 5.1991,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einen hohen",
+    "score": 3.8605,
+    "appearances": 1,
+    "semantic_score": 5.1663,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "sie durchgehend",
+    "score": 3.8593,
+    "appearances": 0,
+    "semantic_score": 4.7092,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ferse sorgt",
+    "score": 3.8518,
+    "appearances": 1,
+    "semantic_score": 5.5376,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "15 lässt",
+    "score": 3.8517,
+    "appearances": 0,
+    "semantic_score": 4.6966,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen diese strumpfhosen",
+    "score": 3.8509,
+    "appearances": 0,
+    "semantic_score": 5.4655,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "jedes",
+    "score": 3.848,
+    "appearances": 2,
+    "semantic_score": 5.0187,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "diese strumpfhose",
+    "score": 3.8431,
+    "appearances": 2,
+    "semantic_score": 4.8705,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "familienunternehmen falke modische",
+    "score": 3.8425,
+    "appearances": 0,
+    "semantic_score": 5.0095,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einkaufswagenkaufoptionenkundenrezensionen4 sternen1504 sternen1504",
+    "score": 3.8317,
+    "appearances": 0,
+    "semantic_score": 5.7303,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "netzstruktur hygienischer",
+    "score": 3.8301,
+    "appearances": 0,
+    "semantic_score": 4.9888,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "sitzt perfekt",
+    "score": 3.8296,
+    "appearances": 2,
+    "semantic_score": 4.2661,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "füßen",
+    "score": 3.8199,
+    "appearances": 1,
+    "semantic_score": 5.5243,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "15 sie",
+    "score": 3.817,
+    "appearances": 0,
+    "semantic_score": 5.0938,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "jede",
+    "score": 3.8122,
+    "appearances": 1,
+    "semantic_score": 4.4484,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "elastischer push up",
+    "score": 3.811,
+    "appearances": 0,
+    "semantic_score": 5.5584,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einsatz",
+    "score": 3.8108,
+    "appearances": 2,
+    "semantic_score": 4.6154,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "xl",
+    "score": 3.8107,
+    "appearances": 3,
+    "semantic_score": 4.4578,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "hygienischer wirkung",
+    "score": 3.8102,
+    "appearances": 2,
+    "semantic_score": 4.9557,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "effektive formkraft",
+    "score": 3.8095,
+    "appearances": 1,
+    "semantic_score": 5.3819,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "sich ideal",
+    "score": 3.8095,
+    "appearances": 2,
+    "semantic_score": 4.6262,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "geruchlos ungiftig sie",
+    "score": 3.8094,
+    "appearances": 0,
+    "semantic_score": 5.5069,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "lässt sich",
+    "score": 3.7995,
+    "appearances": 2,
+    "semantic_score": 4.6095,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feines",
+    "score": 3.7995,
+    "appearances": 4,
+    "semantic_score": 3.2914,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "moderne verarbeitung",
+    "score": 3.7968,
+    "appearances": 2,
+    "semantic_score": 4.605,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ihrer",
+    "score": 3.7963,
+    "appearances": 2,
+    "semantic_score": 4.9754,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einkaufswagenkaufoptionenkundenrezensionen4 sternen1504",
+    "score": 3.7947,
+    "appearances": 0,
+    "semantic_score": 5.6687,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "verstärkter",
+    "score": 3.7873,
+    "appearances": 2,
+    "semantic_score": 4.9174,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "bekleidung",
+    "score": 3.7852,
+    "appearances": 2,
+    "semantic_score": 4.9141,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gleichmäßigem",
+    "score": 3.7843,
+    "appearances": 1,
+    "semantic_score": 5.0651,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "um",
+    "score": 3.7842,
+    "appearances": 4,
+    "semantic_score": 3.9554,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gebildet manzi",
+    "score": 3.7831,
+    "appearances": 0,
+    "semantic_score": 5.5046,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "erlesener",
+    "score": 3.7819,
+    "appearances": 1,
+    "semantic_score": 5.6474,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "langjähriger",
+    "score": 3.7796,
+    "appearances": 3,
+    "semantic_score": 4.3787,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dehnbare",
+    "score": 3.7625,
+    "appearances": 1,
+    "semantic_score": 5.4288,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "eng ihren füßen",
+    "score": 3.7616,
+    "appearances": 0,
+    "semantic_score": 5.4272,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "eignet sich hervorragend",
+    "score": 3.7579,
+    "appearances": 1,
+    "semantic_score": 5.3105,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gleichmäßig",
+    "score": 3.7528,
+    "appearances": 1,
+    "semantic_score": 5.302,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "elastizität",
+    "score": 3.752,
+    "appearances": 1,
+    "semantic_score": 5.4112,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "denevernew",
+    "score": 3.7482,
+    "appearances": 1,
+    "semantic_score": 3.6238,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "druckstellen",
+    "score": 3.7474,
+    "appearances": 1,
+    "semantic_score": 5.3637,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gebildet",
+    "score": 3.7383,
+    "appearances": 1,
+    "semantic_score": 5.4299,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "diese strumpfhosen gibt",
+    "score": 3.7377,
+    "appearances": 1,
+    "semantic_score": 5.2769,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "matt 20",
+    "score": 3.7325,
+    "appearances": 1,
+    "semantic_score": 4.5514,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "geruchlos ungiftig",
+    "score": 3.7281,
+    "appearances": 0,
+    "semantic_score": 5.3713,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "falke familiengeführte",
+    "score": 3.7202,
+    "appearances": 0,
+    "semantic_score": 4.2798,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "führte modernsten",
+    "score": 3.7146,
+    "appearances": 0,
+    "semantic_score": 5.3904,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "erhöht haltbarkeit",
+    "score": 3.7094,
+    "appearances": 0,
+    "semantic_score": 5.3004,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dass",
+    "score": 3.7074,
+    "appearances": 2,
+    "semantic_score": 4.735,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "formt bauch oberschenkel",
+    "score": 3.7019,
+    "appearances": 0,
+    "semantic_score": 5.2025,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "strumpfhose einen",
+    "score": 3.6892,
+    "appearances": 2,
+    "semantic_score": 4.4257,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "sich um",
+    "score": 3.6829,
+    "appearances": 1,
+    "semantic_score": 4.707,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "diese strumpfhosen",
+    "score": 3.669,
+    "appearances": 1,
+    "semantic_score": 5.1623,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "größen xl",
+    "score": 3.6642,
+    "appearances": 1,
+    "semantic_score": 5.3065,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fusion technologie",
+    "score": 3.6558,
+    "appearances": 0,
+    "semantic_score": 4.8509,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "technologie",
+    "score": 3.6549,
+    "appearances": 2,
+    "semantic_score": 4.1494,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gibt ihnen",
+    "score": 3.6545,
+    "appearances": 2,
+    "semantic_score": 4.368,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "make up haut",
+    "score": 3.6488,
+    "appearances": 0,
+    "semantic_score": 4.6089,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dich bewegst 3d",
+    "score": 3.6471,
+    "appearances": 0,
+    "semantic_score": 5.1258,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einen push",
+    "score": 3.6462,
+    "appearances": 1,
+    "semantic_score": 5.2837,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "druckfreie",
+    "score": 3.6423,
+    "appearances": 1,
+    "semantic_score": 5.1885,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "zusatz silikonweichmachern",
+    "score": 3.6389,
+    "appearances": 0,
+    "semantic_score": 5.2301,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "denevernew 20 denkaufoptionenin",
+    "score": 3.6311,
+    "appearances": 1,
+    "semantic_score": 5.396,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "druckfreien",
+    "score": 3.6233,
+    "appearances": 1,
+    "semantic_score": 5.2041,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "funktion hat",
+    "score": 3.622,
+    "appearances": 1,
+    "semantic_score": 5.2433,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fusion technologie strumpfhose",
+    "score": 3.6149,
+    "appearances": 0,
+    "semantic_score": 4.7827,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "erlesener qualität",
+    "score": 3.61,
+    "appearances": 1,
+    "semantic_score": 5.3608,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "größen xl 4xl",
+    "score": 3.6061,
+    "appearances": 0,
+    "semantic_score": 5.2097,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einzelnen abgestimmt",
+    "score": 3.6034,
+    "appearances": 2,
+    "semantic_score": 4.611,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "formt hüftenpush upspezieller",
+    "score": 3.593,
+    "appearances": 0,
+    "semantic_score": 5.1951,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "denkaufoptionenin einkaufswagenin einkaufswagenin",
+    "score": 3.592,
+    "appearances": 0,
+    "semantic_score": 5.3309,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "3d",
+    "score": 3.5863,
+    "appearances": 1,
+    "semantic_score": 4.0718,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fusion",
+    "score": 3.5765,
+    "appearances": 1,
+    "semantic_score": 4.7187,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dank innovativer",
+    "score": 3.576,
+    "appearances": 1,
+    "semantic_score": 4.7178,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einkaufswagenin einkaufswagenin",
+    "score": 3.5724,
+    "appearances": 0,
+    "semantic_score": 5.2983,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "qualität",
+    "score": 3.5711,
+    "appearances": 3,
+    "semantic_score": 4.041,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "denkaufoptionenin einkaufswagenin",
+    "score": 3.5669,
+    "appearances": 0,
+    "semantic_score": 5.2891,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ergeben",
+    "score": 3.5529,
+    "appearances": 1,
+    "semantic_score": 5.0394,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "frau",
+    "score": 3.5493,
+    "appearances": 1,
+    "semantic_score": 5.2598,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "große",
+    "score": 3.5416,
+    "appearances": 2,
+    "semantic_score": 3.8954,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "geruchlos",
+    "score": 3.5356,
+    "appearances": 1,
+    "semantic_score": 5.0505,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "lässt sich ideal",
+    "score": 3.532,
+    "appearances": 2,
+    "semantic_score": 4.1637,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gibt ihnen tolles",
+    "score": 3.5301,
+    "appearances": 0,
+    "semantic_score": 4.1606,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einen hohen tragekomfort",
+    "score": 3.5249,
+    "appearances": 1,
+    "semantic_score": 4.6069,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "detail",
+    "score": 3.5239,
+    "appearances": 2,
+    "semantic_score": 4.4785,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "goodbye laufmaschen strumpfhose",
+    "score": 3.5204,
+    "appearances": 1,
+    "semantic_score": 4.6252,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einer vielzahl tollen",
+    "score": 3.5149,
+    "appearances": 0,
+    "semantic_score": 4.9055,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "große größen",
+    "score": 3.5142,
+    "appearances": 1,
+    "semantic_score": 4.3667,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "goodbye laufmaschen",
+    "score": 3.5133,
+    "appearances": 1,
+    "semantic_score": 3.3714,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "equipments",
+    "score": 3.5054,
+    "appearances": 1,
+    "semantic_score": 5.0418,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "jedes einzelnen",
+    "score": 3.5036,
+    "appearances": 2,
+    "semantic_score": 4.4447,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "diese strumpfhose kann",
+    "score": 3.5009,
+    "appearances": 1,
+    "semantic_score": 4.8821,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "er flacht bauch",
+    "score": 3.5006,
+    "appearances": 0,
+    "semantic_score": 5.0411,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "es kombiniert",
+    "score": 3.49,
+    "appearances": 1,
+    "semantic_score": 5.0161,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "up",
+    "score": 3.4785,
+    "appearances": 3,
+    "semantic_score": 1.8815,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einen besseren",
+    "score": 3.4767,
+    "appearances": 1,
+    "semantic_score": 4.8418,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einer",
+    "score": 3.4747,
+    "appearances": 1,
+    "semantic_score": 4.8385,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "push up",
+    "score": 3.4728,
+    "appearances": 1,
+    "semantic_score": 3.4081,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhosen sind ultimativenmust",
+    "score": 3.4712,
+    "appearances": 0,
+    "semantic_score": 5.1295,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "flacht bauch macht",
+    "score": 3.4695,
+    "appearances": 0,
+    "semantic_score": 4.9892,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "goodbye laufmaschen 20",
+    "score": 3.4681,
+    "appearances": 1,
+    "semantic_score": 4.5382,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "15 lässt sich",
+    "score": 3.4593,
+    "appearances": 0,
+    "semantic_score": 4.0426,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "15 sie sitzt",
+    "score": 3.456,
+    "appearances": 0,
+    "semantic_score": 4.492,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einkaufswagenin einkaufswagenin einkaufswagenkaufoptionenkundenrezensionen4",
+    "score": 3.4543,
+    "appearances": 0,
+    "semantic_score": 5.1014,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "push",
+    "score": 3.4509,
+    "appearances": 1,
+    "semantic_score": 3.3716,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "pure matt",
+    "score": 3.4503,
+    "appearances": 1,
+    "semantic_score": 4.081,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ihnen tolles",
+    "score": 3.4491,
+    "appearances": 0,
+    "semantic_score": 4.0256,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einkaufswagenin",
+    "score": 3.4382,
+    "appearances": 1,
+    "semantic_score": 4.4187,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gleichmäßig alle",
+    "score": 3.4316,
+    "appearances": 0,
+    "semantic_score": 4.7667,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "handelt",
+    "score": 3.43,
+    "appearances": 2,
+    "semantic_score": 4.2856,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "marke falke familiengeführte",
+    "score": 3.4223,
+    "appearances": 0,
+    "semantic_score": 3.7832,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dank innovativer verarbeitung",
+    "score": 3.4197,
+    "appearances": 1,
+    "semantic_score": 4.4574,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "haltbarkeit verhindert",
+    "score": 3.4152,
+    "appearances": 0,
+    "semantic_score": 4.8101,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "zusatz silikonweichmachern überzeugt",
+    "score": 3.4138,
+    "appearances": 0,
+    "semantic_score": 4.855,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "formelle",
+    "score": 3.408,
+    "appearances": 1,
+    "semantic_score": 4.7272,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "sommerstrumpfhose",
+    "score": 3.4019,
+    "appearances": 2,
+    "semantic_score": 4.1974,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "macht",
+    "score": 3.396,
+    "appearances": 2,
+    "semantic_score": 4.1252,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "detail einfluss",
+    "score": 3.3816,
+    "appearances": 0,
+    "semantic_score": 4.8425,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinstrumpfhose nachhaltiger falke",
+    "score": 3.3797,
+    "appearances": 0,
+    "semantic_score": 4.7981,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "führte",
+    "score": 3.3762,
+    "appearances": 1,
+    "semantic_score": 4.8264,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gegründet hängt",
+    "score": 3.3685,
+    "appearances": 0,
+    "semantic_score": 4.8136,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fishnet tights",
+    "score": 3.3601,
+    "appearances": 1,
+    "semantic_score": 4.758,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "hat einen",
+    "score": 3.3558,
+    "appearances": 2,
+    "semantic_score": 4.0582,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "jedes einzelnen abgestimmt",
+    "score": 3.3524,
+    "appearances": 2,
+    "semantic_score": 4.1927,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "make up",
+    "score": 3.3497,
+    "appearances": 0,
+    "semantic_score": 3.335,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "liebe",
+    "score": 3.3452,
+    "appearances": 2,
+    "semantic_score": 4.1806,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "jeden",
+    "score": 3.3404,
+    "appearances": 2,
+    "semantic_score": 4.0948,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "mehr",
+    "score": 3.3379,
+    "appearances": 1,
+    "semantic_score": 3.8788,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dir",
+    "score": 3.3231,
+    "appearances": 1,
+    "semantic_score": 4.5858,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "erhöht haltbarkeit verhindert",
+    "score": 3.3212,
+    "appearances": 0,
+    "semantic_score": 4.6534,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einen perfekten",
+    "score": 3.3204,
+    "appearances": 2,
+    "semantic_score": 3.8111,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "pure",
+    "score": 3.3191,
+    "appearances": 1,
+    "semantic_score": 3.8624,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "formen",
+    "score": 3.3171,
+    "appearances": 1,
+    "semantic_score": 4.5612,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dir einen besseren",
+    "score": 3.3166,
+    "appearances": 1,
+    "semantic_score": 4.5749,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ideal",
+    "score": 3.3111,
+    "appearances": 2,
+    "semantic_score": 3.7955,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "matt",
+    "score": 3.3077,
+    "appearances": 1,
+    "semantic_score": 3.0085,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "deutsche premiummarke langjähriger",
+    "score": 3.3061,
+    "appearances": 0,
+    "semantic_score": 3.5896,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ideal offenen",
+    "score": 3.3052,
+    "appearances": 0,
+    "semantic_score": 3.7857,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "forschung",
+    "score": 3.3012,
+    "appearances": 1,
+    "semantic_score": 3.9008,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "glatt",
+    "score": 3.2994,
+    "appearances": 1,
+    "semantic_score": 4.6169,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ferse",
+    "score": 3.2924,
+    "appearances": 1,
+    "semantic_score": 4.6054,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "erfolgt einem",
+    "score": 3.2897,
+    "appearances": 0,
+    "semantic_score": 4.6481,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "effektive",
+    "score": 3.2837,
+    "appearances": 1,
+    "semantic_score": 4.5055,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "er",
+    "score": 3.2756,
+    "appearances": 1,
+    "semantic_score": 4.666,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "zugleich",
+    "score": 3.2711,
+    "appearances": 1,
+    "semantic_score": 4.796,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einkaufswagenin einkaufswagenkaufoptionenkundenrezensionen4",
+    "score": 3.2709,
+    "appearances": 0,
+    "semantic_score": 4.7957,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "netzstruktur hygienischer wirkung",
+    "score": 3.2626,
+    "appearances": 0,
+    "semantic_score": 4.043,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dehnt",
+    "score": 3.2587,
+    "appearances": 1,
+    "semantic_score": 4.4785,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dir einen",
+    "score": 3.2583,
+    "appearances": 1,
+    "semantic_score": 4.4778,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gr xl",
+    "score": 3.2516,
+    "appearances": 0,
+    "semantic_score": 4.0247,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "premiummarke langjähriger",
+    "score": 3.243,
+    "appearances": 0,
+    "semantic_score": 3.4844,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "formt bauch",
+    "score": 3.2344,
+    "appearances": 1,
+    "semantic_score": 4.4234,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "lebensstil",
+    "score": 3.2238,
+    "appearances": 3,
+    "semantic_score": 3.4524,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "verarbeitung faser",
+    "score": 3.2223,
+    "appearances": 0,
+    "semantic_score": 2.8101,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "equipments ländern wie",
+    "score": 3.2186,
+    "appearances": 0,
+    "semantic_score": 4.5638,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einer vielzahl",
+    "score": 3.2177,
+    "appearances": 1,
+    "semantic_score": 4.4101,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feine",
+    "score": 3.2162,
+    "appearances": 3,
+    "semantic_score": 3.1436,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dich bewegst",
+    "score": 3.2118,
+    "appearances": 1,
+    "semantic_score": 4.4003,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "form",
+    "score": 3.208,
+    "appearances": 2,
+    "semantic_score": 1.6666,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "alle",
+    "score": 3.2043,
+    "appearances": 2,
+    "semantic_score": 3.7994,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "flacht bauch",
+    "score": 3.2029,
+    "appearances": 0,
+    "semantic_score": 4.5449,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "wird",
+    "score": 3.1925,
+    "appearances": 2,
+    "semantic_score": 3.7797,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fishnet tights for",
+    "score": 3.1895,
+    "appearances": 1,
+    "semantic_score": 4.4736,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "alltag",
+    "score": 3.1889,
+    "appearances": 2,
+    "semantic_score": 4.0047,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "shelina",
+    "score": 3.1874,
+    "appearances": 2,
+    "semantic_score": 3.8399,
+    "in_title": true,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "glatt natürlich",
+    "score": 3.1874,
+    "appearances": 0,
+    "semantic_score": 4.4303,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "innovativer",
+    "score": 3.1867,
+    "appearances": 3,
+    "semantic_score": 3.0674,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "bauch oberschenkel po",
+    "score": 3.1865,
+    "appearances": 0,
+    "semantic_score": 3.3762,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "formt",
+    "score": 3.1766,
+    "appearances": 2,
+    "semantic_score": 2.3521,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dehnt du",
+    "score": 3.1747,
+    "appearances": 0,
+    "semantic_score": 4.3385,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "falke feinstrumpfhose",
+    "score": 3.1696,
+    "appearances": 1,
+    "semantic_score": 4.4892,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "druckverlauf",
+    "score": 3.1642,
+    "appearances": 1,
+    "semantic_score": 4.1336,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "hervorragend",
+    "score": 3.1635,
+    "appearances": 2,
+    "semantic_score": 3.8586,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "moderne verarbeitung faser",
+    "score": 3.1597,
+    "appearances": 0,
+    "semantic_score": 3.5433,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "entdecken sie",
+    "score": 3.1433,
+    "appearances": 1,
+    "semantic_score": 4.583,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "entstehen",
+    "score": 3.1388,
+    "appearances": 1,
+    "semantic_score": 3.9893,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "strumpfhosen netzstrümpfe",
+    "score": 3.1365,
+    "appearances": 1,
+    "semantic_score": 3.5432,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "du",
+    "score": 3.1364,
+    "appearances": 1,
+    "semantic_score": 4.2747,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einkaufsw",
+    "score": 3.1193,
+    "appearances": 1,
+    "semantic_score": 4.5431,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "netzstrümpfe",
+    "score": 3.1154,
+    "appearances": 1,
+    "semantic_score": 3.5081,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "denkaufoptionenin",
+    "score": 3.1081,
+    "appearances": 1,
+    "semantic_score": 4.5244,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "du dich",
+    "score": 3.0998,
+    "appearances": 1,
+    "semantic_score": 4.2136,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "everswe 80d",
+    "score": 3.0985,
+    "appearances": 1,
+    "semantic_score": 4.2116,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gibt es einer",
+    "score": 3.096,
+    "appearances": 0,
+    "semantic_score": 4.2073,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "sorgen",
+    "score": 3.0902,
+    "appearances": 3,
+    "semantic_score": 2.6066,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "denin einkaufsw",
+    "score": 3.0879,
+    "appearances": 0,
+    "semantic_score": 4.4907,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "erfahrung herstellung moderner",
+    "score": 3.0846,
+    "appearances": 0,
+    "semantic_score": 3.2204,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einen push up",
+    "score": 3.0845,
+    "appearances": 0,
+    "semantic_score": 4.3476,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einkaufswagenkaufoptionenkundenrezensionen4",
+    "score": 3.0791,
+    "appearances": 1,
+    "semantic_score": 4.476,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feierlicher",
+    "score": 3.0776,
+    "appearances": 1,
+    "semantic_score": 4.4735,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "es sich",
+    "score": 3.0743,
+    "appearances": 1,
+    "semantic_score": 4.2891,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "equipments ländern",
+    "score": 3.0735,
+    "appearances": 0,
+    "semantic_score": 4.3219,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feiner",
+    "score": 3.0714,
+    "appearances": 2,
+    "semantic_score": 3.7243,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "zweite reihe um",
+    "score": 3.0708,
+    "appearances": 0,
+    "semantic_score": 4.1654,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "es einer",
+    "score": 3.0703,
+    "appearances": 0,
+    "semantic_score": 4.1645,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "perfektion liebe detail",
+    "score": 3.0686,
+    "appearances": 0,
+    "semantic_score": 3.7197,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "passend",
+    "score": 3.0636,
+    "appearances": 2,
+    "semantic_score": 3.6335,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "effekt außerordentliches",
+    "score": 3.0597,
+    "appearances": 0,
+    "semantic_score": 4.3062,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "führenden unterwäsche marke",
+    "score": 3.0583,
+    "appearances": 0,
+    "semantic_score": 4.2966,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "deutsche premiummarke",
+    "score": 3.0432,
+    "appearances": 3,
+    "semantic_score": 3.1515,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "wirkung gr",
+    "score": 3.0429,
+    "appearances": 0,
+    "semantic_score": 3.6769,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gesamtfläche 34684",
+    "score": 3.0428,
+    "appearances": 1,
+    "semantic_score": 4.2708,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "perfekten",
+    "score": 3.0384,
+    "appearances": 2,
+    "semantic_score": 3.3411,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "make",
+    "score": 3.0366,
+    "appearances": 2,
+    "semantic_score": 2.8132,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "zweite reihe",
+    "score": 3.0315,
+    "appearances": 1,
+    "semantic_score": 4.0998,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "familiengeführte",
+    "score": 3.0073,
+    "appearances": 3,
+    "semantic_score": 3.0916,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "internationale",
+    "score": 3.0038,
+    "appearances": 1,
+    "semantic_score": 3.4052,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "bauch oberschenkel",
+    "score": 2.9967,
+    "appearances": 0,
+    "semantic_score": 3.0598,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "zugleich unterschiedliche",
+    "score": 2.9914,
+    "appearances": 0,
+    "semantic_score": 4.3298,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "finden sie",
+    "score": 2.978,
+    "appearances": 1,
+    "semantic_score": 4.1701,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "zweite",
+    "score": 2.9715,
+    "appearances": 1,
+    "semantic_score": 3.9998,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dich",
+    "score": 2.9532,
+    "appearances": 1,
+    "semantic_score": 3.9694,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "zugleich unterschiedliche anlässebusinessklassische",
+    "score": 2.9503,
+    "appearances": 0,
+    "semantic_score": 4.2614,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "detail einfluss neuer",
+    "score": 2.9502,
+    "appearances": 0,
+    "semantic_score": 4.1236,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "oberschenkel",
+    "score": 2.9489,
+    "appearances": 1,
+    "semantic_score": 2.9802,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ihnen tolles tragegefühl",
+    "score": 2.9391,
+    "appearances": 0,
+    "semantic_score": 3.1756,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gesamtfläche 34684 quadratmetern",
+    "score": 2.9332,
+    "appearances": 1,
+    "semantic_score": 4.0881,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "es sich um",
+    "score": 2.933,
+    "appearances": 1,
+    "semantic_score": 4.0536,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "unternehmen",
+    "score": 2.9164,
+    "appearances": 1,
+    "semantic_score": 3.2596,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "erfolgt",
+    "score": 2.9128,
+    "appearances": 1,
+    "semantic_score": 4.0199,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "erfahrung",
+    "score": 2.9087,
+    "appearances": 3,
+    "semantic_score": 2.9272,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "eng",
+    "score": 2.9062,
+    "appearances": 1,
+    "semantic_score": 4.0015,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einsatz faser",
+    "score": 2.8988,
+    "appearances": 0,
+    "semantic_score": 3.6913,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "oberschenkel po",
+    "score": 2.8932,
+    "appearances": 0,
+    "semantic_score": 2.8873,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen push up",
+    "score": 2.8887,
+    "appearances": 1,
+    "semantic_score": 4.0212,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "flexiblen betriebssysteme",
+    "score": 2.8865,
+    "appearances": 1,
+    "semantic_score": 4.0102,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "er flacht",
+    "score": 2.8789,
+    "appearances": 1,
+    "semantic_score": 4.0049,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "hauttöne",
+    "score": 2.8772,
+    "appearances": 2,
+    "semantic_score": 3.3228,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "langjähriger erfahrung herstellung",
+    "score": 2.8748,
+    "appearances": 0,
+    "semantic_score": 2.8708,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "feinen",
+    "score": 2.8666,
+    "appearances": 1,
+    "semantic_score": 3.9429,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "effekt",
+    "score": 2.86,
+    "appearances": 1,
+    "semantic_score": 3.9733,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "definierte",
+    "score": 2.859,
+    "appearances": 1,
+    "semantic_score": 3.1785,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "finden sie ihre",
+    "score": 2.8571,
+    "appearances": 1,
+    "semantic_score": 3.9686,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "wie make up",
+    "score": 2.8491,
+    "appearances": 0,
+    "semantic_score": 2.5008,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "lebensstil persönliche",
+    "score": 2.8429,
+    "appearances": 0,
+    "semantic_score": 2.8176,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dass gesamtfläche 34684",
+    "score": 2.8333,
+    "appearances": 0,
+    "semantic_score": 3.9215,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "evernew 20",
+    "score": 2.8284,
+    "appearances": 1,
+    "semantic_score": 4.0581,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "druckverlauf strumpfhose",
+    "score": 2.8263,
+    "appearances": 0,
+    "semantic_score": 3.5704,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "premiummarke langjähriger erfahrung",
+    "score": 2.821,
+    "appearances": 0,
+    "semantic_score": 2.7811,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "langjähriger erfahrung",
+    "score": 2.8209,
+    "appearances": 3,
+    "semantic_score": 2.7809,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "du dich bewegst",
+    "score": 2.8188,
+    "appearances": 1,
+    "semantic_score": 3.7453,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "bedürfnisse",
+    "score": 2.8164,
+    "appearances": 2,
+    "semantic_score": 3.2994,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "zwickel netzstruktur",
+    "score": 2.8117,
+    "appearances": 0,
+    "semantic_score": 3.2915,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "perfektion liebe",
+    "score": 2.8072,
+    "appearances": 0,
+    "semantic_score": 3.284,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "wirkung",
+    "score": 2.7929,
+    "appearances": 2,
+    "semantic_score": 3.2602,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "große auswahl",
+    "score": 2.7883,
+    "appearances": 1,
+    "semantic_score": 3.854,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "perfekte",
+    "score": 2.7868,
+    "appearances": 2,
+    "semantic_score": 3.054,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "flacht",
+    "score": 2.7834,
+    "appearances": 1,
+    "semantic_score": 3.8456,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "zusatz",
+    "score": 2.7523,
+    "appearances": 1,
+    "semantic_score": 3.7524,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gibt es",
+    "score": 2.751,
+    "appearances": 1,
+    "semantic_score": 3.6324,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "goodbye",
+    "score": 2.7494,
+    "appearances": 1,
+    "semantic_score": 2.0982,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "effekt außerordentliches ergebnis",
+    "score": 2.7485,
+    "appearances": 0,
+    "semantic_score": 3.7875,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "funktion hat er",
+    "score": 2.744,
+    "appearances": 0,
+    "semantic_score": 3.78,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "perfektion",
+    "score": 2.7357,
+    "appearances": 2,
+    "semantic_score": 3.1648,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "finden",
+    "score": 2.7241,
+    "appearances": 1,
+    "semantic_score": 3.7471,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "produktion",
+    "score": 2.7171,
+    "appearances": 1,
+    "semantic_score": 2.9274,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "es einer vielzahl",
+    "score": 2.706,
+    "appearances": 0,
+    "semantic_score": 3.5573,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gegründet",
+    "score": 2.6857,
+    "appearances": 1,
+    "semantic_score": 2.875,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "innovativer zwickel netzstruktur",
+    "score": 2.6779,
+    "appearances": 0,
+    "semantic_score": 3.0685,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "deutsche",
+    "score": 2.6715,
+    "appearances": 3,
+    "semantic_score": 2.532,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dass sie",
+    "score": 2.6664,
+    "appearances": 1,
+    "semantic_score": 3.6018,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "forschung strumpf",
+    "score": 2.6576,
+    "appearances": 0,
+    "semantic_score": 3.6287,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "entdecken",
+    "score": 2.6542,
+    "appearances": 1,
+    "semantic_score": 3.7678,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "tragegefühl dank",
+    "score": 2.6491,
+    "appearances": 0,
+    "semantic_score": 2.6922,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gr xl xxl",
+    "score": 2.6411,
+    "appearances": 0,
+    "semantic_score": 3.6083,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "bedürfnisse jedes",
+    "score": 2.638,
+    "appearances": 2,
+    "semantic_score": 3.0019,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "fishnet",
+    "score": 2.6254,
+    "appearances": 1,
+    "semantic_score": 2.6914,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "funktion",
+    "score": 2.6203,
+    "appearances": 1,
+    "semantic_score": 3.5738,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "familienunternehmen falke",
+    "score": 2.6196,
+    "appearances": 2,
+    "semantic_score": 2.9713,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "premiummarke",
+    "score": 2.6028,
+    "appearances": 3,
+    "semantic_score": 2.4175,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "falke we",
+    "score": 2.5894,
+    "appearances": 0,
+    "semantic_score": 3.4809,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "erfolgt einem umweltschonenden",
+    "score": 2.5697,
+    "appearances": 0,
+    "semantic_score": 3.4481,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "for",
+    "score": 2.5665,
+    "appearances": 1,
+    "semantic_score": 3.4353,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "up haut",
+    "score": 2.55,
+    "appearances": 0,
+    "semantic_score": 2.7775,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "erfahrung herstellung",
+    "score": 2.5376,
+    "appearances": 0,
+    "semantic_score": 2.3087,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dietaillees formt taille",
+    "score": 2.5338,
+    "appearances": 0,
+    "semantic_score": 3.4298,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "entwicklung",
+    "score": 2.5265,
+    "appearances": 1,
+    "semantic_score": 2.6097,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einfluss",
+    "score": 2.5217,
+    "appearances": 1,
+    "semantic_score": 3.4094,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "es hat professionelles",
+    "score": 2.488,
+    "appearances": 0,
+    "semantic_score": 3.3462,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "netzstruktur",
+    "score": 2.4708,
+    "appearances": 2,
+    "semantic_score": 2.7233,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "1895 steht",
+    "score": 2.4701,
+    "appearances": 2,
+    "semantic_score": 2.7221,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "formelle veranstaltungen",
+    "score": 2.4683,
+    "appearances": 1,
+    "semantic_score": 3.1612,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "evernew 20 denevernew",
+    "score": 2.4667,
+    "appearances": 1,
+    "semantic_score": 3.4554,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dietaillees formt",
+    "score": 2.4656,
+    "appearances": 1,
+    "semantic_score": 3.316,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "es handelt sich",
+    "score": 2.46,
+    "appearances": 1,
+    "semantic_score": 3.3066,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gr xl 12",
+    "score": 2.4583,
+    "appearances": 0,
+    "semantic_score": 3.3041,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "data25 95 25",
+    "score": 2.4485,
+    "appearances": 0,
+    "semantic_score": 3.425,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "familienunternehmen",
+    "score": 2.4485,
+    "appearances": 2,
+    "semantic_score": 2.6861,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "forschung strumpf entwicklung",
+    "score": 2.4392,
+    "appearances": 0,
+    "semantic_score": 3.2648,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gefühl haut",
+    "score": 2.4353,
+    "appearances": 0,
+    "semantic_score": 3.2654,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "es handelt",
+    "score": 2.4288,
+    "appearances": 1,
+    "semantic_score": 3.2546,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dietaille2verschlankt3push upbeinstütze mm",
+    "score": 2.4206,
+    "appearances": 0,
+    "semantic_score": 3.2411,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "führenden unterwäsche",
+    "score": 2.4115,
+    "appearances": 1,
+    "semantic_score": 3.2186,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "tragegefühl",
+    "score": 2.4084,
+    "appearances": 4,
+    "semantic_score": 1.2568,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "densöckchen 20 denin",
+    "score": 2.4055,
+    "appearances": 1,
+    "semantic_score": 3.3533,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dehnt du dich",
+    "score": 2.4044,
+    "appearances": 0,
+    "semantic_score": 3.0546,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "sind seit",
+    "score": 2.4027,
+    "appearances": 0,
+    "semantic_score": 2.6098,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "tolles tragegefühl dank",
+    "score": 2.3679,
+    "appearances": 0,
+    "semantic_score": 2.2236,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "flexiblen betriebssysteme kontinuierliche",
+    "score": 2.3528,
+    "appearances": 0,
+    "semantic_score": 3.1208,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dietaille2verschlankt3push",
+    "score": 2.3487,
+    "appearances": 1,
+    "semantic_score": 3.1213,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "no",
+    "score": 2.3414,
+    "appearances": 1,
+    "semantic_score": 2.5907,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "sind seit 1895",
+    "score": 2.3413,
+    "appearances": 0,
+    "semantic_score": 2.5075,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "es kombiniert forschung",
+    "score": 2.3282,
+    "appearances": 0,
+    "semantic_score": 3.0798,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "passform",
+    "score": 2.3265,
+    "appearances": 3,
+    "semantic_score": 1.7543,
+    "in_title": false,
+    "source": [
+      "keybert",
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einsatz chemikalien hergestellt",
+    "score": 2.3254,
+    "appearances": 0,
+    "semantic_score": 3.0409,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "jahr 1997",
+    "score": 2.3206,
+    "appearances": 1,
+    "semantic_score": 2.2665,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "bedürfnisse jedes einzelnen",
+    "score": 2.2986,
+    "appearances": 2,
+    "semantic_score": 2.4364,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "data25 95",
+    "score": 2.2966,
+    "appearances": 0,
+    "semantic_score": 3.1719,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "edle",
+    "score": 2.287,
+    "appearances": 1,
+    "semantic_score": 3.0181,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dietaillees",
+    "score": 2.2847,
+    "appearances": 1,
+    "semantic_score": 3.0145,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "formelle veranstaltungen schulen",
+    "score": 2.2779,
+    "appearances": 0,
+    "semantic_score": 2.8438,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gefühl",
+    "score": 2.2745,
+    "appearances": 1,
+    "semantic_score": 2.9974,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dietaille2verschlankt3push upbeinstütze",
+    "score": 2.2665,
+    "appearances": 1,
+    "semantic_score": 2.9841,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "damen goodbye",
+    "score": 2.261,
+    "appearances": 0,
+    "semantic_score": 2.5263,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "jahr",
+    "score": 2.258,
+    "appearances": 1,
+    "semantic_score": 2.1623,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dienstleistungen es",
+    "score": 2.2037,
+    "appearances": 0,
+    "semantic_score": 2.8723,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einem umweltschonenden",
+    "score": 2.1936,
+    "appearances": 1,
+    "semantic_score": 2.8213,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "seit 1895",
+    "score": 2.1578,
+    "appearances": 2,
+    "semantic_score": 2.2017,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ergebnis",
+    "score": 2.1501,
+    "appearances": 1,
+    "semantic_score": 2.7902,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "es hat",
+    "score": 2.1398,
+    "appearances": 1,
+    "semantic_score": 2.7658,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "abgestimmt",
+    "score": 2.1353,
+    "appearances": 2,
+    "semantic_score": 2.1642,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "falke we care",
+    "score": 2.1116,
+    "appearances": 0,
+    "semantic_score": 2.6845,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "persönliche kultur",
+    "score": 2.1044,
+    "appearances": 2,
+    "semantic_score": 2.1127,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "tragegefühl dank besonderem",
+    "score": 2.1015,
+    "appearances": 0,
+    "semantic_score": 1.7796,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "seit 1895 steht",
+    "score": 2.0943,
+    "appearances": 2,
+    "semantic_score": 2.0958,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "erhöht",
+    "score": 2.0681,
+    "appearances": 1,
+    "semantic_score": 2.5648,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "kultur",
+    "score": 2.0612,
+    "appearances": 2,
+    "semantic_score": 2.0407,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "denin",
+    "score": 2.0294,
+    "appearances": 1,
+    "semantic_score": 2.7265,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "forschung entwicklung",
+    "score": 2.0247,
+    "appearances": 0,
+    "semantic_score": 2.5739,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "evernew",
+    "score": 2.0182,
+    "appearances": 1,
+    "semantic_score": 2.7079,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "bananalu",
+    "score": 1.9654,
+    "appearances": 1,
+    "semantic_score": 1.9641,
+    "in_title": true,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einsatz chemikalien",
+    "score": 1.9246,
+    "appearances": 0,
+    "semantic_score": 2.373,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "data25",
+    "score": 1.8873,
+    "appearances": 1,
+    "semantic_score": 2.4898,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "kultur bedürfnisse jedes",
+    "score": 1.8134,
+    "appearances": 0,
+    "semantic_score": 1.6277,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "persönliche kultur bedürfnisse",
+    "score": 1.8012,
+    "appearances": 0,
+    "semantic_score": 1.6073,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "lebensstil persönliche kultur",
+    "score": 1.7994,
+    "appearances": 0,
+    "semantic_score": 1.6044,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "tolles tragegefühl",
+    "score": 1.795,
+    "appearances": 2,
+    "semantic_score": 1.2688,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "es gegründet",
+    "score": 1.7779,
+    "appearances": 1,
+    "semantic_score": 2.1625,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "es jahr 1997",
+    "score": 1.7615,
+    "appearances": 0,
+    "semantic_score": 2.1353,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einfluss neuer",
+    "score": 1.7536,
+    "appearances": 1,
+    "semantic_score": 2.1291,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "datamehrfachpackung3er",
+    "score": 1.7448,
+    "appearances": 1,
+    "semantic_score": 2.2523,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dienstleistungen",
+    "score": 1.7405,
+    "appearances": 1,
+    "semantic_score": 2.1003,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "kultur bedürfnisse",
+    "score": 1.7242,
+    "appearances": 0,
+    "semantic_score": 1.479,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "führenden",
+    "score": 1.7134,
+    "appearances": 1,
+    "semantic_score": 2.0552,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gegründet jahr 1997",
+    "score": 1.7082,
+    "appearances": 0,
+    "semantic_score": 2.0465,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "forschung entwicklung team",
+    "score": 1.6949,
+    "appearances": 0,
+    "semantic_score": 2.0242,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "gegründet jahr",
+    "score": 1.6852,
+    "appearances": 0,
+    "semantic_score": 2.008,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "1895 steht familienunternehmen",
+    "score": 1.6798,
+    "appearances": 0,
+    "semantic_score": 1.4051,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ergebnis previous pagemodelliert",
+    "score": 1.6738,
+    "appearances": 0,
+    "semantic_score": 1.9963,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "abgestimmt sind seit",
+    "score": 1.6227,
+    "appearances": 0,
+    "semantic_score": 1.3099,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "steht familienunternehmen",
+    "score": 1.5867,
+    "appearances": 0,
+    "semantic_score": 1.2499,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "deutschland",
+    "score": 1.4718,
+    "appearances": 1,
+    "semantic_score": 1.6525,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "einfluss neuer ideen",
+    "score": 1.4495,
+    "appearances": 1,
+    "semantic_score": 1.6223,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "ergebnis previous",
+    "score": 1.4011,
+    "appearances": 0,
+    "semantic_score": 1.5418,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "deutschland usw es",
+    "score": 1.3397,
+    "appearances": 0,
+    "semantic_score": 1.4322,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "datamehrfachpackung3er set6er",
+    "score": 1.3264,
+    "appearances": 1,
+    "semantic_score": 1.5549,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "entwicklung team",
+    "score": 1.2886,
+    "appearances": 0,
+    "semantic_score": 1.3471,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "steht familienunternehmen falke",
+    "score": 1.2466,
+    "appearances": 0,
+    "semantic_score": 0.683,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "datamehrfachpackung3er set6er set9er",
+    "score": 1.2411,
+    "appearances": 1,
+    "semantic_score": 1.4127,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "es jahr",
+    "score": 1.2111,
+    "appearances": 0,
+    "semantic_score": 1.2179,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "deutschland usw",
+    "score": 1.2089,
+    "appearances": 1,
+    "semantic_score": 1.2143,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "entwicklung team vielen",
+    "score": 1.1296,
+    "appearances": 0,
+    "semantic_score": 1.0821,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "1000 mitarbeiter",
+    "score": 1.1237,
+    "appearances": 1,
+    "semantic_score": 1.0723,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "1000 mitarbeiter hat",
+    "score": 1.1041,
+    "appearances": 1,
+    "semantic_score": 1.0396,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "entwicklung produktion",
+    "score": 1.0894,
+    "appearances": 0,
+    "semantic_score": 1.0152,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "entwicklung produktion marketing",
+    "score": 1.0646,
+    "appearances": 0,
+    "semantic_score": 0.9738,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "dienstleistungen es gegründet",
+    "score": 0.9489,
+    "appearances": 0,
+    "semantic_score": 0.7809,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "es gegründet jahr",
+    "score": 0.7787,
+    "appearances": 0,
+    "semantic_score": 0.4973,
+    "in_title": false,
+    "source": [
+      "tfidf"
+    ]
+  },
+  {
+    "keyword": "women sheer tights",
+    "score": 0.4678,
+    "appearances": 0,
+    "semantic_score": 0.7797,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "shaper feinstrumpfhose damen",
+    "score": 0.4453,
+    "appearances": 1,
+    "semantic_score": 0.7422,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "weiches nachhaltiges material",
+    "score": 0.4435,
+    "appearances": 1,
+    "semantic_score": 0.7392,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "paar reißfest feinstrumpfhose",
+    "score": 0.4257,
+    "appearances": 0,
+    "semantic_score": 0.7094,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "schuhe wie sandalen",
+    "score": 0.4249,
+    "appearances": 1,
+    "semantic_score": 0.7082,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "wärmende gefütterte strumpfhose",
+    "score": 0.421,
+    "appearances": 1,
+    "semantic_score": 0.7017,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "winter thermostrumpfhosen",
+    "score": 0.4124,
+    "appearances": 1,
+    "semantic_score": 0.6874,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "sortierten bananalu store",
+    "score": 0.4122,
+    "appearances": 1,
+    "semantic_score": 0.6871,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "reißfest feinstrumpfhose schwarz",
+    "score": 0.3977,
+    "appearances": 1,
+    "semantic_score": 0.6628,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "modischen farben diese",
+    "score": 0.3919,
+    "appearances": 0,
+    "semantic_score": 0.6532,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "strumpfhose transparent glänzend",
+    "score": 0.3883,
+    "appearances": 1,
+    "semantic_score": 0.6472,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "warm fleece",
+    "score": 0.383,
+    "appearances": 1,
+    "semantic_score": 0.6383,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "optik komfortbund reißfest",
+    "score": 0.3821,
+    "appearances": 1,
+    "semantic_score": 0.6368,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "innovation ab manzi",
+    "score": 0.3803,
+    "appearances": 0,
+    "semantic_score": 0.6338,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "pairs 20d women",
+    "score": 0.3788,
+    "appearances": 1,
+    "semantic_score": 0.6314,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "bewegst 3d elastan",
+    "score": 0.3747,
+    "appearances": 0,
+    "semantic_score": 0.6245,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "optik nylon bequemer",
+    "score": 0.3744,
+    "appearances": 1,
+    "semantic_score": 0.624,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "beanspruchten beinen",
+    "score": 0.3682,
+    "appearances": 1,
+    "semantic_score": 0.6137,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "anatomisch ausgearbeiteten zonen",
+    "score": 0.3681,
+    "appearances": 1,
+    "semantic_score": 0.6136,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "with reinforced toes",
+    "score": 0.3679,
+    "appearances": 1,
+    "semantic_score": 0.6132,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "matte optik entlastet",
+    "score": 0.3617,
+    "appearances": 1,
+    "semantic_score": 0.6028,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "verhindert laufmaschen transparente",
+    "score": 0.3614,
+    "appearances": 1,
+    "semantic_score": 0.6024,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "tights with reinforced",
+    "score": 0.356,
+    "appearances": 1,
+    "semantic_score": 0.5933,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "supersitz color 20",
+    "score": 0.3465,
+    "appearances": 1,
+    "semantic_score": 0.5775,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "shaper 20",
+    "score": 0.343,
+    "appearances": 1,
+    "semantic_score": 0.5717,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "toeless transparent",
+    "score": 0.3314,
+    "appearances": 1,
+    "semantic_score": 0.5524,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "3er pack supersitz",
+    "score": 0.3296,
+    "appearances": 1,
+    "semantic_score": 0.5493,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "hiltzo winter",
+    "score": 0.3289,
+    "appearances": 1,
+    "semantic_score": 0.5481,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "haben verschiedene maschenweiten",
+    "score": 0.3068,
+    "appearances": 0,
+    "semantic_score": 0.5114,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "skin colour",
+    "score": 0.2993,
+    "appearances": 0,
+    "semantic_score": 0.4989,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "angenehmen druckfreien sitz",
+    "score": 0.2928,
+    "appearances": 0,
+    "semantic_score": 0.4881,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "anteilig recyceltes polyamid",
+    "score": 0.2714,
+    "appearances": 1,
+    "semantic_score": 0.4523,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "lycra fusion technologie",
+    "score": 0.2671,
+    "appearances": 0,
+    "semantic_score": 0.4451,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "2er pack",
+    "score": 0.2671,
+    "appearances": 1,
+    "semantic_score": 0.4451,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "china es",
+    "score": 0.2631,
+    "appearances": 0,
+    "semantic_score": 0.4385,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "innovative softbund verhindert",
+    "score": 0.2507,
+    "appearances": 1,
+    "semantic_score": 0.4178,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "strumpfhose formt bauch",
+    "score": 0.2401,
+    "appearances": 1,
+    "semantic_score": 0.4001,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "laufmaschen dank innovativer",
+    "score": 0.2366,
+    "appearances": 0,
+    "semantic_score": 0.3944,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "silikonweichmachern",
+    "score": 0.2352,
+    "appearances": 1,
+    "semantic_score": 0.3921,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "oberschenkel po transparente",
+    "score": 0.2328,
+    "appearances": 0,
+    "semantic_score": 0.388,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "62 manzi wird",
+    "score": 0.2304,
+    "appearances": 0,
+    "semantic_score": 0.3839,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "mattee optik entlastet",
+    "score": 0.2269,
+    "appearances": 1,
+    "semantic_score": 0.3781,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "alle richtungen dehnt",
+    "score": 0.225,
+    "appearances": 1,
+    "semantic_score": 0.375,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "strumpfhose verhindert laufmaschen",
+    "score": 0.221,
+    "appearances": 1,
+    "semantic_score": 0.3683,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "pantyhose",
+    "score": 0.2102,
+    "appearances": 1,
+    "semantic_score": 0.3503,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "material black",
+    "score": 0.2079,
+    "appearances": 0,
+    "semantic_score": 0.3465,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "modeelemente",
+    "score": 0.202,
+    "appearances": 1,
+    "semantic_score": 0.3366,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "ihren beinen",
+    "score": 0.1965,
+    "appearances": 1,
+    "semantic_score": 0.3274,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "nachhaltiger falke we",
+    "score": 0.1908,
+    "appearances": 0,
+    "semantic_score": 0.318,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "open",
+    "score": 0.1872,
+    "appearances": 1,
+    "semantic_score": 0.312,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "sie sitzt",
+    "score": 0.1845,
+    "appearances": 1,
+    "semantic_score": 0.3075,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "japan deutschland usw",
+    "score": 0.1835,
+    "appearances": 0,
+    "semantic_score": 0.3058,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "reinforced",
+    "score": 0.1814,
+    "appearances": 1,
+    "semantic_score": 0.3023,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "hüftenpush upspezieller",
+    "score": 0.1802,
+    "appearances": 1,
+    "semantic_score": 0.3004,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "seidenprotein",
+    "score": 0.1672,
+    "appearances": 1,
+    "semantic_score": 0.2787,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "persönlichkeit passen feierlicher",
+    "score": 0.1654,
+    "appearances": 0,
+    "semantic_score": 0.2757,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "20d",
+    "score": 0.1651,
+    "appearances": 1,
+    "semantic_score": 0.2752,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "2pcs fishnet",
+    "score": 0.1635,
+    "appearances": 1,
+    "semantic_score": 0.2725,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "auftrittdie ideale sommerstrumpfhose",
+    "score": 0.1632,
+    "appearances": 1,
+    "semantic_score": 0.2721,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "veranstaltungen schulen tanz",
+    "score": 0.1615,
+    "appearances": 0,
+    "semantic_score": 0.2692,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "strumpfhose sitzt perfekt",
+    "score": 0.141,
+    "appearances": 1,
+    "semantic_score": 0.2349,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "sheer",
+    "score": 0.1264,
+    "appearances": 1,
+    "semantic_score": 0.2107,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "previous pagemodelliert",
+    "score": 0.1245,
+    "appearances": 1,
+    "semantic_score": 0.2074,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "passform design sorgt",
+    "score": 0.1194,
+    "appearances": 0,
+    "semantic_score": 0.199,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "sie hat einen",
+    "score": 0.1099,
+    "appearances": 1,
+    "semantic_score": 0.1832,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "bauchverschlanktes formt",
+    "score": 0.0932,
+    "appearances": 1,
+    "semantic_score": 0.1553,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "sternen150preis",
+    "score": 0.0851,
+    "appearances": 1,
+    "semantic_score": 0.1418,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "2009 wir halten",
+    "score": 0.0684,
+    "appearances": 0,
+    "semantic_score": 0.1139,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "mitte",
+    "score": 0.0602,
+    "appearances": 1,
+    "semantic_score": 0.1004,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "set6er set9er set12",
+    "score": 0.0502,
+    "appearances": 1,
+    "semantic_score": 0.0836,
+    "in_title": false,
+    "source": [
+      "keybert"
+    ]
+  },
+  {
+    "keyword": "with",
+    "score": 0.0285,
+    "appearances": 1,
+    "semantic_score": 0.0474,
+    "in_title": true,
+    "source": [
+      "keybert"
+    ]
+  }
+]
